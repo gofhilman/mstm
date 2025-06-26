@@ -1,0 +1,15 @@
+output_file
+packed_cluster_10.dat
+number_spheres
+10
+sphere_data_input_file
+packed_cluster_10_config.pos
+print_sphere_data
+f 
+random_orientation
+t 
+length_scale_factor
+1.267
+ref_index_scale_factor
+(1.04d0,1.833d0)
+end_of_options

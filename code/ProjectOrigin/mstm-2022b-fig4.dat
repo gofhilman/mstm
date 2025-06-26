@@ -1,0 +1,62 @@
+****************************************************
+****************************************************
+ mstm calculation results
+ date, time:
+20220523 025103.536 
+ input file:
+mstm-2022b-fig4.inp
+****************************************************
+ input variables for run     1
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0000000E+00  1.0000000E+00  0.0000000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.2002006E+00  3.9528471E+00  1.0000000E+01  5.6418958E+00
+ sphere properties and associations
+   sphere    host   layer radius     x       y       z           ref indx
+       1       0       0   5.000   0.000   0.000  -5.000  1.6000E+00  0.0000E+00
+       2       0       1   2.500   0.000   0.000   2.500  1.0000E+00  0.0000E+00
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     0
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  2
+ boundary, position, refractive index
+  1  0.0000E+00  1.6000E+00  0.0000E+00
+  2  5.0000E+00  1.0000E+00  0.0000E+00
+ Fresnel boundary reflectance, transmittance, absorptance (par, perp)
+  1.8872E-01  8.1128E-01 -2.2204E-16
+  1.8872E-01  8.1128E-01 -2.2204E-16
+ GF singular points (in s)
+    1    1  2.4167E+07    1.2135681822E+00
+    2    1  1.4925E+07    1.5016802086E+00
+    3    2  5.2881E+07    1.3064490809E+00
+    4    2  2.1285E+08    1.5284955439E+00
+ periodic lattice cell width, incident lateral vector 
+  1.0000000E+01  1.0000000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   8       256
+ mean sphere Mie extinction, absorption efficiencies
+  3.2431E+00 -1.7764E-16
+****************************************************
+ calculation results for run 
+           1
+ number iterations, error, solution time 
+    27  2.1917E-07  1.5895E+02
+ warning: problems encountered with surface interaction calculations
+ subdivided integration interval below 1d-12
+ sphere extinction, absorption, volume absorption efficiencies (unpolarized incidence)
+   sphere    Qext        Qabs        Qvabs
+       1  1.9439E+00 -7.8324E-16 -7.8324E-16
+       2 -6.7332E-01 -1.0433E-15 -1.0433E-15
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.64530E-01-8.20017E-16 1.35470E-01 8.64530E-01-9.93770E-16 1.35470E-01 8.64530E-01-6.46264E-16 1.35470E-01

@@ -1,0 +1,15 @@
+output_file
+linear_chain_30.dat
+number_spheres
+30
+sphere_data_input_file
+linear_chain_30_config.pos
+print_sphere_data
+f 
+random_orientation
+t 
+length_scale_factor
+1.267
+ref_index_scale_factor
+(1.04d0,1.833d0)
+end_of_options

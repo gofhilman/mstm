@@ -1,0 +1,22 @@
+output_file
+blaze1b.dat
+number_spheres
+2
+sphere_data
+-0.2d0,0.d0,0.5d0,0.2d0
+0.5d0,0.d0,0.5d0,0.5d0
+end_of_sphere_data
+length_scale_factor
+10.693d0
+ref_index_scale_factor
+(0.27732d0,2.9278d0)
+incident_beta_deg
+0.d0
+incident_alpha_deg
+0.d0
+calculate_scattering_matrix
+f
+loop_variable
+length_scale_factor
+6.283d0, 15.708d0, 0.02d0 
+end_of_options

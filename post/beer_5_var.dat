@@ -1,0 +1,3441 @@
+****************************************************
+****************************************************
+ mstm calculation results
+ date, time:
+20221102 111729.164 
+ input file:
+beer_5_var.inp
+****************************************************
+ input variables for run     1
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.5708000E+00  1.4692000E+00  1.9539100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  7.2909926E+00  1.5708000E+00  3.3700864E+01  2.6038953E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    49
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3047E+00  1.5606E+00
+****************************************************
+ calculation results for run 
+           1
+ number iterations, error, solution time 
+    15  1.1548E-07  8.0050E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.60647E-02 4.83349E-01 4.50586E-01 6.83192E-02 4.91957E-01 4.39724E-01 6.38102E-02 4.74741E-01 4.61448E-01
+****************************************************
+ input variables for run     2
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.5475800E+00  1.4657900E+00  1.9569600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  7.1832153E+00  1.5475800E+00  3.8153999E+01  2.5654038E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    49
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3003E+00  1.5608E+00
+****************************************************
+ calculation results for run 
+           2
+ number iterations, error, solution time 
+    13  9.6033E-07  6.0680E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.81571E-02 4.83584E-01 4.48259E-01 7.02452E-02 4.92941E-01 4.36814E-01 6.60689E-02 4.74228E-01 4.59703E-01
+****************************************************
+ input variables for run     3
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.5250400E+00  1.4610800E+00  1.9580400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  7.0785942E+00  1.5250400E+00  3.7596710E+01  2.5280395E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    48
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2960E+00  1.5611E+00
+****************************************************
+ calculation results for run 
+           3
+ number iterations, error, solution time 
+    14  2.5971E-07  6.1696E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.03956E-02 4.83413E-01 4.46191E-01 7.24173E-02 4.92830E-01 4.34753E-01 6.83739E-02 4.73997E-01 4.57629E-01
+****************************************************
+ input variables for run     4
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.5031500E+00  1.4589300E+00  1.9569700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.9769901E+00  1.5031500E+00  3.7055540E+01  2.4917528E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    48
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2902E+00  1.5615E+00
+****************************************************
+ calculation results for run 
+           4
+ number iterations, error, solution time 
+    15  1.1459E-07  5.7157E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.26306E-02 4.82930E-01 4.44439E-01 7.46358E-02 4.91951E-01 4.33413E-01 7.06253E-02 4.73910E-01 4.55465E-01
+****************************************************
+ input variables for run     5
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.4818800E+00  1.4563500E+00  1.9537900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.8782638E+00  1.4818800E+00  3.6529752E+01  2.4564938E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    47
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2846E+00  1.5624E+00
+****************************************************
+ calculation results for run 
+           5
+ number iterations, error, solution time 
+    14  9.4194E-07  5.5381E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.48337E-02 4.82537E-01 4.42629E-01 7.68417E-02 4.91137E-01 4.32021E-01 7.28256E-02 4.73937E-01 4.53237E-01
+****************************************************
+ input variables for run     6
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.4612100E+00  1.4506700E+00  1.9485300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.7823225E+00  1.4612100E+00  3.6018807E+01  2.4222294E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    47
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2805E+00  1.5645E+00
+****************************************************
+ calculation results for run 
+           6
+ number iterations, error, solution time 
+    15  7.2572E-07  5.5793E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.69537E-02 4.82571E-01 4.40476E-01 7.89372E-02 4.90904E-01 4.30159E-01 7.49703E-02 4.74237E-01 4.50793E-01
+****************************************************
+ input variables for run     7
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.4411000E+00  1.4349000E+00  1.9414500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.6889804E+00  1.4411000E+00  3.5521816E+01  2.3888933E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    46
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2813E+00  1.5688E+00
+****************************************************
+ calculation results for run 
+           7
+ number iterations, error, solution time 
+    13  6.2787E-07  5.2194E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.90462E-02 4.83130E-01 4.37823E-01 8.09881E-02 4.91424E-01 4.27588E-01 7.71044E-02 4.74837E-01 4.48059E-01
+****************************************************
+ input variables for run     8
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.4215400E+00  1.4144400E+00  1.9321900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.5981912E+00  1.4215400E+00  3.5038392E+01  2.3564689E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    46
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2846E+00  1.5749E+00
+****************************************************
+ calculation results for run 
+           8
+ number iterations, error, solution time 
+    14  3.4500E-07  5.5570E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.10677E-02 4.84073E-01 4.34859E-01 8.29469E-02 4.92566E-01 4.24487E-01 7.91884E-02 4.75581E-01 4.45231E-01
+****************************************************
+ input variables for run     9
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.4025000E+00  1.3914900E+00  1.9205400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.5098156E+00  1.4025000E+00  3.4567891E+01  2.3249065E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    45
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2892E+00  1.5828E+00
+****************************************************
+ calculation results for run 
+           9
+ number iterations, error, solution time 
+    14  5.1507E-07  5.2405E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.29572E-02 4.85219E-01 4.31824E-01 8.47718E-02 4.94016E-01 4.21212E-01 8.11425E-02 4.76421E-01 4.42436E-01
+****************************************************
+ input variables for run    10
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.3839600E+00  1.3726800E+00  1.9043600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.4237608E+00  1.3839600E+00  3.4109776E+01  2.2941730E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    45
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2912E+00  1.5924E+00
+****************************************************
+ calculation results for run 
+          10
+ number iterations, error, solution time 
+    15  2.9744E-07  5.6537E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.45484E-02 4.86464E-01 4.28988E-01 8.63135E-02 4.95533E-01 4.18154E-01 8.27833E-02 4.77394E-01 4.39823E-01
+****************************************************
+ input variables for run    11
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.3659100E+00  1.3568100E+00  1.8846200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.3399804E+00  1.3659100E+00  3.3663753E+01  2.2642518E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    44
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2910E+00  1.6036E+00
+****************************************************
+ calculation results for run 
+          11
+ number iterations, error, solution time 
+    14  8.8757E-07  5.2823E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.57899E-02 4.87808E-01 4.26402E-01 8.74904E-02 4.97059E-01 4.15450E-01 8.40893E-02 4.78557E-01 4.37353E-01
+****************************************************
+ input variables for run    12
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.3483200E+00  1.3359000E+00  1.8650200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.2583351E+00  1.3483200E+00  3.3229179E+01  2.2350930E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    44
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2936E+00  1.6162E+00
+****************************************************
+ calculation results for run 
+          12
+ number iterations, error, solution time 
+    15  1.2406E-07  5.4563E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.69216E-02 4.89361E-01 4.23717E-01 8.85701E-02 4.98664E-01 4.12766E-01 8.52731E-02 4.80059E-01 4.34668E-01
+****************************************************
+ input variables for run    13
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.3311800E+00  1.3055900E+00  1.8471200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.1787785E+00  1.3311800E+00  3.2805714E+01  2.2066803E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    43
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3019E+00  1.6301E+00
+****************************************************
+ calculation results for run 
+          13
+ number iterations, error, solution time 
+    15  2.2880E-07  5.1576E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.79744E-02 4.91347E-01 4.20679E-01 8.95626E-02 5.00714E-01 4.09724E-01 8.63862E-02 4.81980E-01 4.31634E-01
+****************************************************
+ input variables for run    14
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.3144700E+00  1.2548400E+00  1.8308700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.1012178E+00  1.3144700E+00  3.2392913E+01  2.1789803E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    43
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3227E+00  1.6470E+00
+****************************************************
+ calculation results for run 
+          14
+ number iterations, error, solution time 
+    14  4.7949E-07  5.2843E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.91380E-02 4.94371E-01 4.16491E-01 9.07209E-02 5.03860E-01 4.05420E-01 8.75551E-02 4.84882E-01 4.27563E-01
+****************************************************
+ input variables for run    15
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2981800E+00  1.1927800E+00  1.8212100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.0256065E+00  1.2981800E+00  3.1990484E+01  2.1519766E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    42
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3560E+00  1.6635E+00
+****************************************************
+ calculation results for run 
+          15
+ number iterations, error, solution time 
+    14  2.1104E-07  5.1712E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.07417E-02 4.97776E-01 4.11482E-01 9.23641E-02 5.07444E-01 4.00192E-01 8.91192E-02 4.88109E-01 4.22772E-01
+****************************************************
+ input variables for run    16
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2822800E+00  1.1203700E+00  1.8210500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.9518055E+00  1.2822800E+00  3.1597782E+01  2.1256194E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    42
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.4062E+00  1.6777E+00
+****************************************************
+ calculation results for run 
+          16
+ number iterations, error, solution time 
+    13  6.1486E-07  5.0166E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.33054E-02 5.01168E-01 4.05527E-01 9.50877E-02 5.10976E-01 3.93936E-01 9.15232E-02 4.91359E-01 4.17118E-01
+****************************************************
+ input variables for run    17
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2667700E+00  1.0383700E+00  1.8335800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.8798146E+00  1.2667700E+00  3.1214668E+01  2.0999086E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    42
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.4787E+00  1.6862E+00
+****************************************************
+ calculation results for run 
+          17
+ number iterations, error, solution time 
+    14  5.6056E-07  5.0413E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.74266E-02 5.03983E-01 3.98590E-01 9.94961E-02 5.13807E-01 3.86697E-01 9.53571E-02 4.94160E-01 4.10483E-01
+****************************************************
+ input variables for run    18
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2516300E+00  9.3702600E-01  1.8755400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.8095412E+00  1.2516300E+00  3.0840743E+01  2.0748112E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    41
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.5949E+00  1.6753E+00
+****************************************************
+ calculation results for run 
+          18
+ number iterations, error, solution time 
+    15  9.9730E-07  5.3114E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.05576E-01 5.04092E-01 3.90332E-01 1.08217E-01 5.13695E-01 3.78088E-01 1.02936E-01 4.94488E-01 4.02576E-01
+****************************************************
+ input variables for run    19
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2368500E+00  8.3234600E-01  1.9304700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.7409387E+00  1.2368500E+00  3.0475715E+01  2.0503106E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    41
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.7312E+00  1.6398E+00
+****************************************************
+ calculation results for run 
+          19
+ number iterations, error, solution time 
+    20  8.3751E-08  5.9553E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.17166E-01 5.00060E-01 3.82774E-01 1.20599E-01 5.09019E-01 3.70383E-01 1.13734E-01 4.91101E-01 3.95165E-01
+****************************************************
+ input variables for run    20
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2224100E+00  7.2945600E-01  1.9959100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.6739143E+00  1.2224100E+00  3.0119138E+01  2.0263736E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    40
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.8719E+00  1.5681E+00
+****************************************************
+ calculation results for run 
+          20
+ number iterations, error, solution time 
+    21  9.2557E-07  6.0467E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.33022E-01 4.89223E-01 3.77755E-01 1.37419E-01 4.97038E-01 3.65543E-01 1.28625E-01 4.81407E-01 3.89968E-01
+****************************************************
+ input variables for run    21
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.2083000E+00  6.3348300E-01  2.0694300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.6084217E+00  1.2083000E+00  2.9770721E+01  2.0029836E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    40
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  3.9977E+00  1.4533E+00
+****************************************************
+ calculation results for run 
+          21
+ number iterations, error, solution time 
+    22  9.3576E-07  6.2752E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.53801E-01 4.68963E-01 3.77235E-01 1.59230E-01 4.75053E-01 3.65717E-01 1.48373E-01 4.62874E-01 3.88754E-01
+****************************************************
+ input variables for run    22
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1945200E+00  5.6910600E-01  2.1456300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.5444608E+00  1.1945200E+00  2.9430417E+01  1.9801407E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    40
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5      7000
+ mean sphere Mie extinction, absorption efficiencies
+  4.0750E+00  1.3244E+00
+****************************************************
+ calculation results for run 
+          22
+ number iterations, error, solution time 
+    24  8.9173E-07  6.7911E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.75977E-01 4.42046E-01 3.81977E-01 1.82102E-01 4.46068E-01 3.71830E-01 1.69852E-01 4.38024E-01 3.92123E-01
+****************************************************
+ input variables for run    23
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1810500E+00  5.2028300E-01  2.2252600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.4819388E+00  1.1810500E+00  2.9097827E+01  1.9578117E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    38
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.1310E+00  1.1942E+00
+****************************************************
+ calculation results for run 
+          23
+ number iterations, error, solution time 
+    26  3.6271E-07  5.5840E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.99772E-01 4.09686E-01 3.90542E-01 2.06060E-01 4.12078E-01 3.81862E-01 1.93483E-01 4.07294E-01 3.99223E-01
+****************************************************
+ input variables for run    24
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1678800E+00  4.8133900E-01  2.3074900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.4208092E+00  1.1678800E+00  2.8772658E+01  1.9359799E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    38
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.1794E+00  1.0728E+00
+****************************************************
+ calculation results for run 
+          24
+ number iterations, error, solution time 
+    28  5.5242E-07  5.6283E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.23110E-01 3.76232E-01 4.00658E-01 2.29571E-01 3.77367E-01 3.93062E-01 2.16648E-01 3.75096E-01 4.08255E-01
+****************************************************
+ input variables for run    25
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1550000E+00  4.5009600E-01  2.3909800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.3610257E+00  1.1550000E+00  2.8454665E+01  1.9146289E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    38
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.2257E+00  9.6626E-01
+****************************************************
+ calculation results for run 
+          25
+ number iterations, error, solution time 
+    30  3.2102E-07  5.9640E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.44527E-01 3.44333E-01 4.11141E-01 2.51197E-01 3.44867E-01 4.03936E-01 2.37856E-01 3.43798E-01 4.18346E-01
+****************************************************
+ input variables for run    26
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1424000E+00  4.2240400E-01  2.4728100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.3025419E+00  1.1424000E+00  2.8143603E+01  1.8937420E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    37
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.2738E+00  8.7383E-01
+****************************************************
+ calculation results for run 
+          26
+ number iterations, error, solution time 
+    28  8.6472E-07  6.1889E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.63491E-01 3.15866E-01 4.20643E-01 2.70580E-01 3.16262E-01 4.13158E-01 2.56402E-01 3.15470E-01 4.28128E-01
+****************************************************
+ input variables for run    27
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1300700E+00  3.9177000E-01  2.5481800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.2453112E+00  1.1300700E+00  2.7839224E+01  1.8733028E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    37
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.3287E+00  7.8866E-01
+****************************************************
+ calculation results for run 
+          27
+ number iterations, error, solution time 
+    31  5.0021E-07  6.2430E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.81275E-01 2.89750E-01 4.28975E-01 2.88922E-01 2.90219E-01 4.20858E-01 2.73627E-01 2.89280E-01 4.37093E-01
+****************************************************
+ input variables for run    28
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1180000E+00  3.6408900E-01  2.6221900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.1892874E+00  1.1180000E+00  2.7541284E+01  1.8532945E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    37
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.3812E+00  7.1364E-01
+****************************************************
+ calculation results for run 
+          28
+ number iterations, error, solution time 
+    34  9.6126E-07  6.4119E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.97619E-01 2.66646E-01 4.35735E-01 3.06202E-01 2.67075E-01 4.26722E-01 2.89036E-01 2.66217E-01 4.44747E-01
+****************************************************
+ input variables for run    29
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.1061900E+00  3.3913900E-01  2.6950600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.1344704E+00  1.1061900E+00  2.7249736E+01  1.8337172E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    37
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.4288E+00  6.4747E-01
+****************************************************
+ calculation results for run 
+          29
+ number iterations, error, solution time 
+    35  1.9136E-07  6.3983E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.13314E-01 2.46018E-01 4.40669E-01 3.22729E-01 2.45946E-01 4.31325E-01 3.03898E-01 2.46090E-01 4.50012E-01
+****************************************************
+ input variables for run    30
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0946300E+00  3.1670000E-01  2.7669900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.0808138E+00  1.0946300E+00  2.6964381E+01  1.8145543E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    36
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.4694E+00  5.8895E-01
+****************************************************
+ calculation results for run 
+          30
+ number iterations, error, solution time 
+    36  2.2889E-07  6.8649E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.28586E-01 2.27156E-01 4.44257E-01 3.37577E-01 2.25878E-01 4.36545E-01 3.19595E-01 2.28435E-01 4.51970E-01
+****************************************************
+ input variables for run    31
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0833100E+00  2.9655200E-01  2.8382000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  5.0282711E+00  1.0833100E+00  2.6684972E+01  1.7957893E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    36
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5016E+00  5.3699E-01
+****************************************************
+ calculation results for run 
+          31
+ number iterations, error, solution time 
+    36  3.9029E-07  6.6479E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.42823E-01 2.09494E-01 4.47683E-01 3.49862E-01 2.06523E-01 4.43615E-01 3.35784E-01 2.12465E-01 4.51751E-01
+****************************************************
+ input variables for run    32
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0722200E+00  2.7847300E-01  2.9103900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.9767960E+00  1.0722200E+00  2.6411264E+01  1.7774055E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    36
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5232E+00  4.9008E-01
+****************************************************
+ calculation results for run 
+          32
+ number iterations, error, solution time 
+    40  4.4335E-07  7.2057E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.55361E-01 1.92768E-01 4.51871E-01 3.59826E-01 1.87914E-01 4.52260E-01 3.50897E-01 1.97622E-01 4.51482E-01
+****************************************************
+ input variables for run    33
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0613500E+00  2.6224300E-01  2.9828200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.9263421E+00  1.0613500E+00  2.6143011E+01  1.7593865E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    35
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5338E+00  4.4791E-01
+****************************************************
+ calculation results for run 
+          33
+ number iterations, error, solution time 
+    41  5.8321E-07  7.3031E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.65489E-01 1.77278E-01 4.57233E-01 3.68022E-01 1.70863E-01 4.61115E-01 3.62956E-01 1.83694E-01 4.53350E-01
+****************************************************
+ input variables for run    34
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0507000E+00  2.4764300E-01  3.0545200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.8769093E+00  1.0507000E+00  2.5880166E+01  1.7417321E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    35
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5338E+00  4.1021E-01
+****************************************************
+ calculation results for run 
+          34
+ number iterations, error, solution time 
+    41  5.9531E-07  7.4399E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.72827E-01 1.63382E-01 4.63792E-01 3.74843E-01 1.56248E-01 4.68908E-01 3.70810E-01 1.70515E-01 4.58675E-01
+****************************************************
+ input variables for run    35
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0402600E+00  2.3445100E-01  3.1252500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.8284513E+00  1.0402600E+00  2.5622531E+01  1.7244259E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    35
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5235E+00  3.7643E-01
+****************************************************
+ calculation results for run 
+          35
+ number iterations, error, solution time 
+    42  3.9225E-07  7.3551E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.78004E-01 1.50981E-01 4.71015E-01 3.80320E-01 1.43963E-01 4.75717E-01 3.75688E-01 1.57998E-01 4.66314E-01
+****************************************************
+ input variables for run    36
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0300300E+00  2.2244700E-01  3.1948300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.7809679E+00  1.0300300E+00  2.5370058E+01  1.7074677E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    35
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.5034E+00  3.4605E-01
+****************************************************
+ calculation results for run 
+          36
+ number iterations, error, solution time 
+    42  4.5524E-07  7.5601E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.82044E-01 1.40064E-01 4.77892E-01 3.84529E-01 1.33707E-01 4.81764E-01 3.79559E-01 1.46422E-01 4.74020E-01
+****************************************************
+ input variables for run    37
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0200000E+00  2.1141000E-01  3.2630200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.7344129E+00  1.0200000E+00  2.5122549E+01  1.6908411E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    34
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.4744E+00  3.1859E-01
+****************************************************
+ calculation results for run 
+          37
+ number iterations, error, solution time 
+    39  8.0474E-07  7.5424E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.85220E-01 1.30391E-01 4.84389E-01 3.87350E-01 1.24907E-01 4.87743E-01 3.83090E-01 1.35875E-01 4.81035E-01
+****************************************************
+ input variables for run    38
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0101600E+00  1.9931700E-01  3.3275400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.6887398E+00  1.0101600E+00  2.4879757E+01  1.6745295E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    34
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.4402E+00  2.9169E-01
+****************************************************
+ calculation results for run 
+          38
+ number iterations, error, solution time 
+    41  7.7753E-07  7.7063E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.87853E-01 1.21139E-01 4.91008E-01 3.89319E-01 1.16771E-01 4.93910E-01 3.86386E-01 1.25507E-01 4.88107E-01
+****************************************************
+ input variables for run    39
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  1.0005100E+00  1.8760400E-01  3.3901000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.6439486E+00  1.0005100E+00  2.4641636E+01  1.6585328E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    34
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.3989E+00  2.6670E-01
+****************************************************
+ calculation results for run 
+          39
+ number iterations, error, solution time 
+    44  1.6998E-07  7.8330E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.88890E-01 1.12644E-01 4.98466E-01 3.88848E-01 1.09584E-01 5.01568E-01 3.88932E-01 1.15704E-01 4.95364E-01
+****************************************************
+ input variables for run    40
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.9103900E-01  1.7662400E-01  3.4511500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.5999882E+00  9.9103900E-01  2.4407967E+01  1.6428328E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    34
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.3503E+00  2.4387E-01
+****************************************************
+ calculation results for run 
+          40
+ number iterations, error, solution time 
+    42  7.7929E-07  7.5894E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.87891E-01 1.04683E-01 5.07427E-01 3.84855E-01 1.03100E-01 5.12045E-01 3.90926E-01 1.06265E-01 5.02809E-01
+****************************************************
+ input variables for run    41
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.8174800E-01  1.6645700E-01  3.5108300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.5568633E+00  9.8174800E-01  2.4178719E+01  1.6274313E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    33
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.2951E+00  2.2315E-01
+****************************************************
+ calculation results for run 
+          41
+ number iterations, error, solution time 
+    45  3.9378E-07  7.5774E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.85308E-01 9.68792E-02 5.17813E-01 3.78430E-01 9.67626E-02 5.24807E-01 3.92186E-01 9.69958E-02 5.10818E-01
+****************************************************
+ input variables for run    42
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.7262900E-01  1.5718400E-01  3.5692800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.5145368E+00  9.7262900E-01  2.3953736E+01  1.6123148E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    33
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4      4800
+ mean sphere Mie extinction, absorption efficiencies
+  4.2337E+00  2.0450E-01
+****************************************************
+ calculation results for run 
+          42
+ number iterations, error, solution time 
+    45  5.1222E-07  7.8643E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.83072E-01 8.95215E-02 5.27406E-01 3.72475E-01 9.03261E-02 5.37199E-01 3.93670E-01 8.87170E-02 5.17613E-01
+****************************************************
+ input variables for run    43
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.6367900E-01  1.4888400E-01  3.6266300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.4729947E+00  9.6367900E-01  2.3732921E+01  1.5974785E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    32
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  4.1667E+00  1.8788E-01
+****************************************************
+ calculation results for run 
+          43
+ number iterations, error, solution time 
+    45  3.6106E-07  5.8131E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.81263E-01 8.20289E-02 5.36708E-01 3.67989E-01 8.34532E-02 5.48558E-01 3.94538E-01 8.06046E-02 5.24857E-01
+****************************************************
+ input variables for run    44
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.5489100E-01  1.4163800E-01  3.6830300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.4322045E+00  9.5489100E-01  2.3516122E+01  1.5829107E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    32
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  4.0946E+00  1.7326E-01
+****************************************************
+ calculation results for run 
+          44
+ number iterations, error, solution time 
+    46  7.6014E-07  5.5943E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.80551E-01 7.61390E-02 5.43310E-01 3.67532E-01 7.79912E-02 5.54477E-01 3.93570E-01 7.42868E-02 5.32143E-01
+****************************************************
+ input variables for run    45
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.4626300E-01  1.3678700E-01  3.7392000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.3921570E+00  9.4626300E-01  2.3303266E+01  1.5686082E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    31
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  4.0175E+00  1.6196E-01
+****************************************************
+ calculation results for run 
+          45
+ number iterations, error, solution time 
+    46  5.9112E-07  5.5425E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.80067E-01 7.18771E-02 5.48056E-01 3.68214E-01 7.43001E-02 5.57486E-01 3.91920E-01 6.94540E-02 5.38626E-01
+****************************************************
+ input variables for run    46
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.3778900E-01  1.3345300E-01  3.7948200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.3528243E+00  9.3778900E-01  2.3094223E+01  1.5545610E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    31
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.9365E+00  1.5280E-01
+****************************************************
+ calculation results for run 
+          46
+ number iterations, error, solution time 
+    46  8.4100E-07  5.5430E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.78977E-01 6.87326E-02 5.52290E-01 3.67565E-01 7.17629E-02 5.60672E-01 3.90389E-01 6.57022E-02 5.43909E-01
+****************************************************
+ input variables for run    47
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.2946500E-01  1.3110300E-01  3.8497700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.3141878E+00  9.2946500E-01  2.2888887E+01  1.5407624E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    31
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.8525E+00  1.4509E-01
+****************************************************
+ calculation results for run 
+          47
+ number iterations, error, solution time 
+    46  5.9802E-07  5.5928E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.77536E-01 6.63187E-02 5.56145E-01 3.65504E-01 6.99490E-02 5.64547E-01 3.89568E-01 6.26884E-02 5.47744E-01
+****************************************************
+ input variables for run    48
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.2128800E-01  1.2962800E-01  3.9040800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.2762336E+00  9.2128800E-01  2.2687179E+01  1.5272075E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    31
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.7663E+00  1.3860E-01
+****************************************************
+ calculation results for run 
+          48
+ number iterations, error, solution time 
+    41  4.4872E-07  5.2683E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.75796E-01 6.42432E-02 5.59961E-01 3.62500E-01 6.84177E-02 5.69083E-01 3.89093E-01 6.00687E-02 5.50838E-01
+****************************************************
+ input variables for run    49
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.1325400E-01  1.2891700E-01  3.9578100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.2389432E+00  9.1325400E-01  2.2489004E+01  1.5138896E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    31
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.6782E+00  1.3311E-01
+****************************************************
+ calculation results for run 
+          49
+ number iterations, error, solution time 
+    42  3.2510E-07  5.0921E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.73414E-01 6.22264E-02 5.64359E-01 3.58149E-01 6.68163E-02 5.75035E-01 3.88680E-01 5.76364E-02 5.53684E-01
+****************************************************
+ input variables for run    50
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  9.0535800E-01  1.2885900E-01  4.0110200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.2022933E+00  9.0535800E-01  2.2294246E+01  1.5008005E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    30
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.5889E+00  1.2844E-01
+****************************************************
+ calculation results for run 
+          50
+ number iterations, error, solution time 
+    39  5.5377E-07  4.7481E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.70209E-01 6.01722E-02 5.69618E-01 3.52134E-01 6.50077E-02 5.82858E-01 3.88285E-01 5.53367E-02 5.56379E-01
+****************************************************
+ input variables for run    51
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.9759800E-01  1.2934500E-01  4.0637400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.1662747E+00  8.9759800E-01  2.2102840E+01  1.4879369E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    30
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.4987E+00  1.2442E-01
+****************************************************
+ calculation results for run 
+          51
+ number iterations, error, solution time 
+    39  3.3518E-07  4.6587E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.65613E-01 5.80326E-02 5.76355E-01 3.44316E-01 6.29649E-02 5.92719E-01 3.86909E-01 5.31003E-02 5.59990E-01
+****************************************************
+ input variables for run    52
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.8997000E-01  1.3004000E-01  4.1161000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.1308687E+00  8.8997000E-01  2.1914698E+01  1.4752920E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    30
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.4079E+00  1.2069E-01
+****************************************************
+ calculation results for run 
+          52
+ number iterations, error, solution time 
+    38  7.5839E-07  4.6637E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.60292E-01 5.57652E-02 5.83942E-01 3.36643E-01 6.07492E-02 6.02608E-01 3.83942E-01 5.07811E-02 5.65277E-01
+****************************************************
+ input variables for run    53
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.8247000E-01  1.3039100E-01  4.1682800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.0960569E+00  8.8247000E-01  2.1729722E+01  1.4628594E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    30
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.3168E+00  1.1672E-01
+****************************************************
+ calculation results for run 
+          53
+ number iterations, error, solution time 
+    39  7.5074E-07  4.5849E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.55219E-01 5.33474E-02 5.91434E-01 3.31105E-01 5.82993E-02 6.10596E-01 3.79333E-01 4.83954E-02 5.72272E-01
+****************************************************
+ input variables for run    54
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.7509500E-01  1.3102900E-01  4.2201100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.0618252E+00  8.7509500E-01  2.1547832E+01  1.4506339E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    30
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.2258E+00  1.1312E-01
+****************************************************
+ calculation results for run 
+          54
+ number iterations, error, solution time 
+    36  6.3707E-07  4.7001E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.50637E-01 5.11145E-02 5.98249E-01 3.28125E-01 5.59345E-02 6.15941E-01 3.73149E-01 4.62945E-02 5.80556E-01
+****************************************************
+ input variables for run    55
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.6784300E-01  1.3192700E-01  4.2716200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  4.0281645E+00  8.6784300E-01  2.1368976E+01  1.4386124E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.1353E+00  1.0982E-01
+****************************************************
+ calculation results for run 
+          55
+ number iterations, error, solution time 
+    37  2.7017E-07  4.3051E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.46670E-01 4.91759E-02 6.04154E-01 3.27410E-01 5.37898E-02 6.18800E-01 3.65929E-01 4.45620E-02 5.89509E-01
+****************************************************
+ input variables for run    56
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.6071000E-01  1.3305800E-01  4.3228300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.9950562E+00  8.6071000E-01  2.1193063E+01  1.4267881E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  3.0456E+00  1.0678E-01
+****************************************************
+ calculation results for run 
+          56
+ number iterations, error, solution time 
+    37  1.7410E-07  4.4257E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.42377E-01 4.74745E-02 6.10148E-01 3.26899E-01 5.17950E-02 6.21306E-01 3.57855E-01 4.31540E-02 5.98991E-01
+****************************************************
+ input variables for run    57
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.5369400E-01  1.3439600E-01  4.3737700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.9624908E+00  8.5369400E-01  2.1020036E+01  1.4151578E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.9569E+00  1.0397E-01
+****************************************************
+ calculation results for run 
+          57
+ number iterations, error, solution time 
+    32  4.3336E-07  4.5922E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.36575E-01 4.59281E-02 6.17497E-01 3.24560E-01 4.98956E-02 6.25544E-01 3.48590E-01 4.19606E-02 6.09449E-01
+****************************************************
+ input variables for run    58
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.4679000E-01  1.3591300E-01  4.4244800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.9304454E+00  8.4679000E-01  2.0849786E+01  1.4037131E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.8694E+00  1.0135E-01
+****************************************************
+ calculation results for run 
+          58
+ number iterations, error, solution time 
+    33  4.5045E-07  4.1152E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.29411E-01 4.45221E-02 6.26067E-01 3.20148E-01 4.81448E-02 6.31707E-01 3.38674E-01 4.08994E-02 6.20427E-01
+****************************************************
+ input variables for run    59
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.3999800E-01  1.3758300E-01  4.4749700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.8989198E+00  8.3999800E-01  2.0682290E+01  1.3924541E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.7833E+00  9.8893E-02
+****************************************************
+ calculation results for run 
+          59
+ number iterations, error, solution time 
+    33  3.4394E-07  4.2324E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.21419E-01 4.32072E-02 6.35374E-01 3.13813E-01 4.64874E-02 6.39700E-01 3.29025E-01 3.99269E-02 6.31049E-01
+****************************************************
+ input variables for run    60
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.3331400E-01  1.3937800E-01  4.5252700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.8678955E+00  8.3331400E-01  2.0517467E+01  1.3813741E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    29
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.6988E+00  9.6563E-02
+****************************************************
+ calculation results for run 
+          60
+ number iterations, error, solution time 
+    31  8.4624E-07  4.0253E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.13250E-01 4.19669E-02 6.44784E-01 3.06203E-01 4.49148E-02 6.48882E-01 3.20296E-01 3.90189E-02 6.40685E-01
+****************************************************
+ input variables for run    61
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.2673500E-01  1.4115000E-01  4.5756300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.8373586E+00  8.2673500E-01  2.0355239E+01  1.3704682E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.6157E+00  9.4246E-02
+****************************************************
+ calculation results for run 
+          61
+ number iterations, error, solution time 
+    31  5.4897E-07  3.9250E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.05493E-01 4.07565E-02 6.53750E-01 2.97835E-01 4.33702E-02 6.58795E-01 3.13151E-01 3.81428E-02 6.48706E-01
+****************************************************
+ input variables for run    62
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.2025900E-01  1.4293400E-01  4.6259500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.8072997E+00  8.2025900E-01  2.0195553E+01  1.3597330E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.5343E+00  9.1976E-02
+****************************************************
+ calculation results for run 
+          62
+ number iterations, error, solution time 
+    31  2.4872E-07  4.0117E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.97992E-01 3.96118E-02 6.62396E-01 2.89244E-01 4.18953E-02 6.68861E-01 3.06741E-01 3.73283E-02 6.55931E-01
+****************************************************
+ input variables for run    63
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.1388400E-01  1.4477400E-01  4.6761600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.7777096E+00  8.1388400E-01  2.0038359E+01  1.3491652E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.4549E+00  8.9786E-02
+****************************************************
+ calculation results for run 
+          63
+ number iterations, error, solution time 
+    30  2.6680E-07  3.9417E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.90846E-01 3.85415E-02 6.70613E-01 2.80811E-01 4.05287E-02 6.78661E-01 3.00881E-01 3.65543E-02 6.62565E-01
+****************************************************
+ input variables for run    64
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.0760700E-01  1.4665400E-01  4.7262400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.7485745E+00  8.0760700E-01  1.9883588E+01  1.3387599E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.3773E+00  8.7666E-02
+****************************************************
+ calculation results for run 
+          64
+ number iterations, error, solution time 
+    29  8.4121E-07  3.7914E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.83851E-01 3.75443E-02 6.78604E-01 2.72430E-01 3.92398E-02 6.88330E-01 2.95273E-01 3.58489E-02 6.68879E-01
+****************************************************
+ input variables for run    65
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  8.0142700E-01  1.4856000E-01  4.7762100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.7198895E+00  8.0142700E-01  1.9731207E+01  1.3285154E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.3018E+00  8.5608E-02
+****************************************************
+ calculation results for run 
+          65
+ number iterations, error, solution time 
+    28  7.2769E-07  3.6563E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.76833E-01 3.65957E-02 6.86572E-01 2.64351E-01 3.80346E-02 6.97614E-01 2.89314E-01 3.51569E-02 6.75529E-01
+****************************************************
+ input variables for run    66
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.9534000E-01  1.5047700E-01  4.8260700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.6916362E+00  7.9534000E-01  1.9581131E+01  1.3184251E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    28
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.2283E+00  8.3602E-02
+****************************************************
+ calculation results for run 
+          66
+ number iterations, error, solution time 
+    29  7.1510E-08  3.7198E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.69610E-01 3.56831E-02 6.94707E-01 2.56576E-01 3.69068E-02 7.06517E-01 2.82644E-01 3.44594E-02 6.82897E-01
+****************************************************
+ input variables for run    67
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.8934500E-01  1.5238900E-01  4.8758200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.6638100E+00  7.8934500E-01  1.9433321E+01  1.3084872E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.1568E+00  8.1640E-02
+****************************************************
+ calculation results for run 
+          67
+ number iterations, error, solution time 
+    25  9.1828E-07  3.4058E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.62078E-01 3.47969E-02 7.03125E-01 2.49029E-01 3.58478E-02 7.15124E-01 2.75127E-01 3.37460E-02 6.91127E-01
+****************************************************
+ input variables for run    68
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.8344000E-01  1.5428100E-01  4.9254800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.6364015E+00  7.8344000E-01  1.9287732E+01  1.2986986E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.0875E+00  7.9717E-02
+****************************************************
+ calculation results for run 
+          68
+ number iterations, error, solution time 
+    25  6.9352E-07  3.2954E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.54497E-01 3.39560E-02 7.11547E-01 2.41823E-01 3.48744E-02 7.23302E-01 2.67170E-01 3.30376E-02 6.99792E-01
+****************************************************
+ input variables for run    69
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.7762200E-01  1.5613900E-01  4.9750500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.6093968E+00  7.7762200E-01  1.9144297E+01  1.2890542E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  2.0201E+00  7.7826E-02
+****************************************************
+ calculation results for run 
+          69
+ number iterations, error, solution time 
+    25  9.2747E-07  3.3755E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.46992E-01 3.31361E-02 7.19872E-01 2.35077E-01 3.39615E-02 7.30962E-01 2.58908E-01 3.23107E-02 7.08781E-01
+****************************************************
+ input variables for run    70
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.7189000E-01  1.5794700E-01  5.0245400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.5827912E+00  7.7189000E-01  1.9002980E+01  1.2795523E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.9549E+00  7.5961E-02
+****************************************************
+ calculation results for run 
+          70
+ number iterations, error, solution time 
+    26  6.1463E-07  3.4911E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.39559E-01 3.23216E-02 7.28119E-01 2.28668E-01 3.30845E-02 7.38248E-01 2.50451E-01 3.15586E-02 7.17990E-01
+****************************************************
+ input variables for run    71
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.6624200E-01  1.5968900E-01  5.0739500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.5565756E+00  7.6624200E-01  1.8863738E+01  1.2701897E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.8917E+00  7.4118E-02
+****************************************************
+ calculation results for run 
+          71
+ number iterations, error, solution time 
+    23  9.7668E-07  3.3376E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.32460E-01 3.15128E-02 7.36028E-01 2.22720E-01 3.22416E-02 7.45039E-01 2.42200E-01 3.07839E-02 7.27016E-01
+****************************************************
+ input variables for run    72
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.6067600E-01  1.6072000E-01  5.1237300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.5307406E+00  7.6067600E-01  1.8726521E+01  1.2609630E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    27
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.8301E+00  7.1998E-02
+****************************************************
+ calculation results for run 
+          72
+ number iterations, error, solution time 
+    24  6.3265E-07  3.1427E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.25627E-01 3.05521E-02 7.43821E-01 2.16957E-01 3.12370E-02 7.51806E-01 2.34296E-01 2.98672E-02 7.35836E-01
+****************************************************
+ input variables for run    73
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.5519100E-01  1.6153200E-01  5.1735400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.5052815E+00  7.5519100E-01  1.8591300E+01  1.2518706E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.7706E+00  6.9857E-02
+****************************************************
+ calculation results for run 
+          73
+ number iterations, error, solution time 
+    24  3.2287E-07  3.0423E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.19429E-01 2.95678E-02 7.51003E-01 2.11645E-01 3.02032E-02 7.58152E-01 2.27213E-01 2.89325E-02 7.43855E-01
+****************************************************
+ input variables for run    74
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.4978300E-01  1.6228700E-01  5.2232500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.4801799E+00  7.4978300E-01  1.8457991E+01  1.2429058E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.7129E+00  6.7773E-02
+****************************************************
+ calculation results for run 
+          74
+ number iterations, error, solution time 
+    24  2.7833E-07  3.1384E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.13723E-01 2.85846E-02 7.57693E-01 2.06600E-01 2.91518E-02 7.64248E-01 2.20846E-01 2.80173E-02 7.51137E-01
+****************************************************
+ input variables for run    75
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.4445300E-01  1.6300700E-01  5.2728400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.4554403E+00  7.4445300E-01  1.8326595E+01  1.2340703E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.6573E+00  6.5756E-02
+****************************************************
+ calculation results for run 
+          75
+ number iterations, error, solution time 
+    23  6.4910E-07  3.2587E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.08607E-01 2.76133E-02 7.63780E-01 2.02001E-01 2.80988E-02 7.69900E-01 2.15212E-01 2.71278E-02 7.57660E-01
+****************************************************
+ input variables for run    76
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.3919800E-01  1.6371200E-01  5.3222900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.4310488E+00  7.3919800E-01  1.8197056E+01  1.2253592E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.6036E+00  6.3813E-02
+****************************************************
+ calculation results for run 
+          76
+ number iterations, error, solution time 
+    23  6.8037E-07  2.9923E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.04057E-01 2.66656E-02 7.69278E-01 1.97832E-01 2.70558E-02 7.75112E-01 2.10281E-01 2.62754E-02 7.63443E-01
+****************************************************
+ input variables for run    77
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.3401700E-01  1.6442300E-01  5.3715900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.4070008E+00  7.3401700E-01  1.8069341E+01  1.2167707E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.5518E+00  6.1950E-02
+****************************************************
+ calculation results for run 
+          77
+ number iterations, error, solution time 
+    24  6.2869E-07  3.0774E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.00023E-01 2.57572E-02 7.74219E-01 1.94174E-01 2.60589E-02 7.79767E-01 2.05872E-01 2.54556E-02 7.68672E-01
+****************************************************
+ input variables for run    78
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.2890800E-01  1.6516200E-01  5.4207100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.3832869E+00  7.2890800E-01  1.7943406E+01  1.2083016E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.5018E+00  6.0171E-02
+****************************************************
+ calculation results for run 
+          78
+ number iterations, error, solution time 
+    24  5.3810E-07  3.1354E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.96511E-01 2.48941E-02 7.78595E-01 1.90895E-01 2.51046E-02 7.84001E-01 2.02128E-01 2.46836E-02 7.73189E-01
+****************************************************
+ input variables for run    79
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.2386900E-01  1.6594900E-01  5.4696300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.3598980E+00  7.2386900E-01  1.7819200E+01  1.1999485E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.4536E+00  5.8481E-02
+****************************************************
+ calculation results for run 
+          79
+ number iterations, error, solution time 
+    21  5.4874E-07  2.8762E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.93486E-01 2.40936E-02 7.82420E-01 1.88136E-01 2.42357E-02 7.87629E-01 1.98837E-01 2.39516E-02 7.77212E-01
+****************************************************
+ input variables for run    80
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.1890000E-01  1.6680500E-01  5.5183500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.3368340E+00  7.1890000E-01  1.7696716E+01  1.1917114E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    26
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.4072E+00  5.6881E-02
+****************************************************
+ calculation results for run 
+          80
+ number iterations, error, solution time 
+    21  4.9579E-07  2.9558E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.90656E-01 2.33331E-02 7.86010E-01 1.85429E-01 2.34078E-02 7.91163E-01 1.95884E-01 2.32584E-02 7.80858E-01
+****************************************************
+ input variables for run    81
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.1399800E-01  1.6775200E-01  5.5668200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.3140810E+00  7.1399800E-01  1.7575893E+01  1.1835855E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.3624E+00  5.5376E-02
+****************************************************
+ calculation results for run 
+          81
+ number iterations, error, solution time 
+    21  4.5478E-07  2.6757E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.88065E-01 2.26348E-02 7.89301E-01 1.82888E-01 2.26638E-02 7.94448E-01 1.93241E-01 2.26058E-02 7.84153E-01
+****************************************************
+ input variables for run    82
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.0916300E-01  1.6881000E-01  5.6150500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.2916390E+00  7.0916300E-01  1.7456716E+01  1.1755705E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.3194E+00  5.3966E-02
+****************************************************
+ calculation results for run 
+          82
+ number iterations, error, solution time 
+    21  5.1193E-07  2.7068E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.85525E-01 2.19929E-02 7.92482E-01 1.80420E-01 2.19970E-02 7.97583E-01 1.90631E-01 2.19888E-02 7.87380E-01
+****************************************************
+ input variables for run    83
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  7.0439300E-01  1.7000000E-01  5.6630000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.2694986E+00  7.0439300E-01  1.7339147E+01  1.1676634E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.2779E+00  5.2652E-02
+****************************************************
+ calculation results for run 
+          83
+ number iterations, error, solution time 
+    21  6.9828E-07  2.7567E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.83133E-01 2.14159E-02 7.95451E-01 1.77970E-01 2.14036E-02 8.00627E-01 1.88296E-01 2.14282E-02 7.90276E-01
+****************************************************
+ input variables for run    84
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.9968700E-01  1.7240100E-01  5.7092400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.2476554E+00  6.9968700E-01  1.7223157E+01  1.1598623E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.2385E+00  5.1782E-02
+****************************************************
+ calculation results for run 
+          84
+ number iterations, error, solution time 
+    21  9.9616E-07  2.8293E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.80670E-01 2.10282E-02 7.98302E-01 1.75502E-01 2.10191E-02 8.03478E-01 1.85838E-01 2.10373E-02 7.93125E-01
+****************************************************
+ input variables for run    85
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.9504300E-01  1.7498200E-01  5.7551600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.2260999E+00  6.9504300E-01  1.7108699E+01  1.1521640E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.2005E+00  5.0990E-02
+****************************************************
+ calculation results for run 
+          85
+ number iterations, error, solution time 
+    22  4.9665E-07  2.9582E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.78448E-01 2.06996E-02 8.00852E-01 1.73175E-01 2.07005E-02 8.06125E-01 1.83721E-01 2.06986E-02 7.95580E-01
+****************************************************
+ input variables for run    86
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.9046000E-01  1.7773000E-01  5.8007900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.2048275E+00  6.9046000E-01  1.6995746E+01  1.1445668E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.1640E+00  5.0266E-02
+****************************************************
+ calculation results for run 
+          86
+ number iterations, error, solution time 
+    22  5.4548E-07  2.7409E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.76188E-01 2.04068E-02 8.03405E-01 1.70734E-01 2.04263E-02 8.08839E-01 1.81642E-01 2.03873E-02 7.97971E-01
+****************************************************
+ input variables for run    87
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.8593700E-01  1.8063100E-01  5.8461600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.1838337E+00  6.8593700E-01  1.6884273E+01  1.1370691E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.1288E+00  4.9601E-02
+****************************************************
+ calculation results for run 
+          87
+ number iterations, error, solution time 
+    22  1.7109E-07  2.8321E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.74026E-01 2.01540E-02 8.05820E-01 1.68489E-01 2.02114E-02 8.11300E-01 1.79562E-01 2.00966E-02 8.00341E-01
+****************************************************
+ input variables for run    88
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.8147300E-01  1.8367100E-01  5.8912800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.1631137E+00  6.8147300E-01  1.6774255E+01  1.1296692E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    25
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.0950E+00  4.8988E-02
+****************************************************
+ calculation results for run 
+          88
+ number iterations, error, solution time 
+    22  9.2887E-08  2.9863E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.71918E-01 1.99302E-02 8.08151E-01 1.66372E-01 2.00390E-02 8.13589E-01 1.77465E-01 1.98214E-02 8.02714E-01
+****************************************************
+ input variables for run    89
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.7706700E-01  1.8683800E-01  5.9361900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.1426629E+00  6.7706700E-01  1.6665667E+01  1.1223654E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.0623E+00  4.8420E-02
+****************************************************
+ calculation results for run 
+          89
+ number iterations, error, solution time 
+    21  7.9641E-07  2.9113E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.69770E-01 1.97260E-02 8.10504E-01 1.64415E-01 1.99061E-02 8.15679E-01 1.75125E-01 1.95459E-02 8.05329E-01
+****************************************************
+ input variables for run    90
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.7271800E-01  1.9011700E-01  5.9809200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.1224766E+00  6.7271800E-01  1.6558485E+01  1.1151561E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.0309E+00  4.7890E-02
+****************************************************
+ calculation results for run 
+          90
+ number iterations, error, solution time 
+    20  5.8489E-07  2.6922E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.68051E-01 1.95646E-02 8.12384E-01 1.62691E-01 1.98090E-02 8.17500E-01 1.73411E-01 1.93201E-02 8.07269E-01
+****************************************************
+ input variables for run    91
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.6842400E-01  1.9349500E-01  6.0254800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.1025457E+00  6.6842400E-01  1.6452665E+01  1.1080380E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  1.0006E+00  4.7392E-02
+****************************************************
+ calculation results for run 
+          91
+ number iterations, error, solution time 
+    18  7.5609E-07  2.4657E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.66250E-01 1.94062E-02 8.14343E-01 1.61074E-01 1.97294E-02 8.19197E-01 1.71427E-01 1.90831E-02 8.09490E-01
+****************************************************
+ input variables for run    92
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.6418400E-01  1.9695800E-01  6.0699200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.0828654E+00  6.6418400E-01  1.6348177E+01  1.1010094E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  9.7141E-01  4.6919E-02
+****************************************************
+ calculation results for run 
+          92
+ number iterations, error, solution time 
+    18  6.7992E-07  2.4064E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.64669E-01 1.92616E-02 8.16069E-01 1.59746E-01 1.96647E-02 8.20589E-01 1.69592E-01 1.88584E-02 8.11550E-01
+****************************************************
+ input variables for run    93
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.5999800E-01  2.0049300E-01  6.1142500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.0634358E+00  6.5999800E-01  1.6245016E+01  1.0940703E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  9.4326E-01  4.6469E-02
+****************************************************
+ calculation results for run 
+          93
+ number iterations, error, solution time 
+    18  7.1892E-07  2.6006E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.63270E-01 1.91263E-02 8.17604E-01 1.58601E-01 1.96044E-02 8.21795E-01 1.67939E-01 1.86483E-02 8.13413E-01
+****************************************************
+ input variables for run    94
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.5586500E-01  2.0408600E-01  6.1585000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.0442521E+00  6.5586500E-01  1.6143163E+01  1.0872191E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  9.1611E-01  4.6036E-02
+****************************************************
+ calculation results for run 
+          94
+ number iterations, error, solution time 
+    18  7.0030E-07  2.6442E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.62145E-01 1.90018E-02 8.18853E-01 1.57620E-01 1.95359E-02 8.22845E-01 1.66671E-01 1.84677E-02 8.14862E-01
+****************************************************
+ input variables for run    95
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.5178300E-01  2.0772400E-01  6.2027000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.0253052E+00  6.5178300E-01  1.6042573E+01  1.0804524E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  8.8992E-01  4.5616E-02
+****************************************************
+ calculation results for run 
+          95
+ number iterations, error, solution time 
+    18  9.0160E-07  2.4264E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.61019E-01 1.88569E-02 8.20124E-01 1.56794E-01 1.94479E-02 8.23758E-01 1.65244E-01 1.82659E-02 8.16490E-01
+****************************************************
+ input variables for run    96
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.4775100E-01  2.1139400E-01  6.2468700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  3.0065904E+00  6.4775100E-01  1.5943217E+01  1.0737687E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  8.6465E-01  4.5205E-02
+****************************************************
+ calculation results for run 
+          96
+ number iterations, error, solution time 
+    19  1.0881E-07  2.4591E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.60135E-01 1.87127E-02 8.21152E-01 1.56077E-01 1.93339E-02 8.24589E-01 1.64194E-01 1.80915E-02 8.17715E-01
+****************************************************
+ input variables for run    97
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.4376900E-01  2.1508000E-01  6.2910500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  2.9881076E+00  6.4376900E-01  1.5845090E+01  1.0671677E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    24
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  8.4026E-01  4.4800E-02
+****************************************************
+ calculation results for run 
+          97
+ number iterations, error, solution time 
+    18  6.8370E-07  2.3924E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.59477E-01 1.85601E-02 8.21963E-01 1.55571E-01 1.91888E-02 8.25240E-01 1.63383E-01 1.79314E-02 8.18685E-01
+****************************************************
+ input variables for run    98
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.3983600E-01  2.1877100E-01  6.3352500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  2.9698523E+00  6.3983600E-01  1.5748173E+01  1.0606481E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    23
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  8.1672E-01  4.4398E-02
+****************************************************
+ calculation results for run 
+          98
+ number iterations, error, solution time 
+    17  7.2062E-07  2.5301E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.58861E-01 1.83872E-02 8.22752E-01 1.55187E-01 1.90154E-02 8.25798E-01 1.62535E-01 1.77589E-02 8.19706E-01
+****************************************************
+ input variables for run    99
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.3595000E-01  2.2193900E-01  6.3804000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  2.9518151E+00  6.3595000E-01  1.5652420E+01  1.0542063E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    23
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  7.9382E-01  4.3881E-02
+****************************************************
+ calculation results for run 
+          99
+ number iterations, error, solution time 
+    17  5.8596E-07  2.2486E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.58379E-01 1.81641E-02 8.23457E-01 1.54924E-01 1.87686E-02 8.26307E-01 1.61834E-01 1.75596E-02 8.20607E-01
+****************************************************
+ input variables for run   100
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.3211100E-01  2.2483000E-01  6.4260800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  2.9339961E+00  6.3211100E-01  1.5557823E+01  1.0478424E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    23
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  7.7163E-01  4.3312E-02
+****************************************************
+ calculation results for run 
+         100
+ number iterations, error, solution time 
+    17  4.8338E-07  2.3371E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.58043E-01 1.79157E-02 8.24042E-01 1.54741E-01 1.84830E-02 8.26776E-01 1.61344E-01 1.73484E-02 8.21308E-01
+****************************************************
+ input variables for run   101
+ sphere data input file:
+beer_5_config.pos
+ number spheres
+  100
+ length, ref index scale factors
+  6.2831900E-01  2.2770100E-01  6.4718400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  2.9163952E+00  6.2831900E-01  1.5464381E+01  1.0415565E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+    23
+ particle layer reflectance/absorptance model, absorption sample radius fraction
+  8.0000E-01
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3      3000
+ mean sphere Mie extinction, absorption efficiencies
+  7.5021E-01  4.2750E-02
+****************************************************
+ calculation results for run 
+         101
+ number iterations, error, solution time 
+    17  4.0643E-07  2.4337E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.57741E-01 1.76658E-02 8.24593E-01 1.54584E-01 1.81914E-02 8.27225E-01 1.60899E-01 1.71403E-02 8.21961E-01

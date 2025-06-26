@@ -1,0 +1,18 @@
+output_file
+blaze2b.dat
+print_sphere_data
+f 
+number_spheres
+100
+sphere_data_input_file
+blaze2_configuration.pos
+random_orientation
+t 
+ref_index_scale_factor
+(1.6d0,.1d0)
+calculate_scattering_matrix
+f
+loop_variable
+length_scale_factor
+0.6283d0, 1.5708d0, 0.01d0
+end_of_options

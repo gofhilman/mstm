@@ -1,0 +1,17 @@
+output_file
+ref_bisphere.dat
+number_spheres
+2
+sphere_data
+0.d0, 0.d0, 1.d0, 1.d0
+0.d0, 0.d0, -1.d0, 1.d0
+end_of_sphere_data
+print_sphere_data
+f 
+random_orientation
+t 
+length_scale_factor
+1.267
+ref_index_scale_factor
+(1.04d0,1.833d0)
+end_of_options

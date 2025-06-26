@@ -1,0 +1,3444 @@
+****************************************************
+****************************************************
+ mstm calculation results
+ date, time:
+20220927 201041.242 
+ input file:
+pellucidus_ref_bisphere_v_var.inp
+****************************************************
+ input variables for run     1
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.5708000E+00  1.4692000E+00  1.9539100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.9790826E+00  1.5708000E+00  3.1416000E+00  2.6586870E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.7124000E+01  4.7124000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.3047E+00  1.5606E+00
+****************************************************
+ calculation results for run 
+           1
+ number iterations, error, solution time 
+     5  6.7584E-08  1.4294E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.18211E-03 9.00358E-03 9.88814E-01 2.18211E-03 9.00358E-03 9.88814E-01 2.18211E-03 9.00358E-03 9.88814E-01
+****************************************************
+ input variables for run     2
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.5475800E+00  1.4657900E+00  1.9569600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.9498273E+00  1.5475800E+00  3.0951600E+00  2.6193855E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.6427400E+01  4.6427400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.3003E+00  1.5608E+00
+****************************************************
+ calculation results for run 
+           2
+ number iterations, error, solution time 
+     5  7.7029E-08  1.2923E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.16751E-03 8.93893E-03 9.88894E-01 2.16751E-03 8.93893E-03 9.88894E-01 2.16751E-03 8.93893E-03 9.88894E-01
+****************************************************
+ input variables for run     3
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.5250400E+00  1.4610800E+00  1.9580400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.9214287E+00  1.5250400E+00  3.0500800E+00  2.5812350E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.5751200E+01  4.5751200E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2960E+00  1.5611E+00
+****************************************************
+ calculation results for run 
+           3
+ number iterations, error, solution time 
+     6  5.3255E-08  1.3839E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.81775E-03 8.81304E-03 9.89369E-01 1.81776E-03 8.81304E-03 9.89369E-01 1.81774E-03 8.81304E-03 9.89369E-01
+****************************************************
+ input variables for run     4
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.5031500E+00  1.4589300E+00  1.9569700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.8938491E+00  1.5031500E+00  3.0063000E+00  2.5441847E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.5094500E+01  4.5094500E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2902E+00  1.5615E+00
+****************************************************
+ calculation results for run 
+           4
+ number iterations, error, solution time 
+     5  1.3497E-08  1.2182E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.22522E-03 9.06748E-03 9.88707E-01 2.22522E-03 9.06748E-03 9.88707E-01 2.22522E-03 9.06748E-03 9.88707E-01
+****************************************************
+ input variables for run     5
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.4818800E+00  1.4563500E+00  1.9537900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.8670506E+00  1.4818800E+00  2.9637600E+00  2.5081837E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.4456400E+01  4.4456400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2846E+00  1.5624E+00
+****************************************************
+ calculation results for run 
+           5
+ number iterations, error, solution time 
+     6  3.8922E-08  1.3163E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.96444E-03 8.94217E-03 9.89093E-01 1.96444E-03 8.94217E-03 9.89093E-01 1.96444E-03 8.94217E-03 9.89093E-01
+****************************************************
+ input variables for run     6
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.4612100E+00  1.4506700E+00  1.9485300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.8410081E+00  1.4612100E+00  2.9224200E+00  2.4731983E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.3836300E+01  4.3836300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2805E+00  1.5645E+00
+****************************************************
+ calculation results for run 
+           6
+ number iterations, error, solution time 
+     5  7.1643E-07  1.2020E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.28381E-03 9.17163E-03 9.88545E-01 2.28381E-03 9.17163E-03 9.88545E-01 2.28381E-03 9.17163E-03 9.88545E-01
+****************************************************
+ input variables for run     7
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.4411000E+00  1.4349000E+00  1.9414500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.8156711E+00  1.4411000E+00  2.8822000E+00  2.4391608E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.3233000E+01  4.3233000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2813E+00  1.5688E+00
+****************************************************
+ calculation results for run 
+           7
+ number iterations, error, solution time 
+     5  5.1641E-08  1.1402E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.30281E-03 9.16868E-03 9.88529E-01 2.30281E-03 9.16868E-03 9.88529E-01 2.30281E-03 9.16868E-03 9.88529E-01
+****************************************************
+ input variables for run     8
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.4215400E+00  1.4144400E+00  1.9321900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.7910271E+00  1.4215400E+00  2.8430800E+00  2.4060541E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.2646200E+01  4.2646200E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2846E+00  1.5749E+00
+****************************************************
+ calculation results for run 
+           8
+ number iterations, error, solution time 
+     5  3.8528E-08  1.1144E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.29663E-03 9.16975E-03 9.88534E-01 2.29663E-03 9.16975E-03 9.88534E-01 2.29663E-03 9.16975E-03 9.88534E-01
+****************************************************
+ input variables for run     9
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.4025000E+00  1.3914900E+00  1.9205400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.7670382E+00  1.4025000E+00  2.8050000E+00  2.3738276E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.2075000E+01  4.2075000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2892E+00  1.5828E+00
+****************************************************
+ calculation results for run 
+           9
+ number iterations, error, solution time 
+     6  6.0747E-09  1.3528E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.21626E-03 9.20895E-03 9.88575E-01 2.21626E-03 9.20895E-03 9.88575E-01 2.21626E-03 9.20895E-03 9.88575E-01
+****************************************************
+ input variables for run    10
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.3839600E+00  1.3726800E+00  1.9043600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.7436793E+00  1.3839600E+00  2.7679200E+00  2.3424474E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.1518800E+01  4.1518800E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2912E+00  1.5924E+00
+****************************************************
+ calculation results for run 
+          10
+ number iterations, error, solution time 
+     5  4.2635E-08  1.1942E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.31203E-03 9.32277E-03 9.88365E-01 2.31203E-03 9.32277E-03 9.88365E-01 2.31203E-03 9.32277E-03 9.88365E-01
+****************************************************
+ input variables for run    11
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.3659100E+00  1.3568100E+00  1.8846200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.7209378E+00  1.3659100E+00  2.7318200E+00  2.3118966E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.0977300E+01  4.0977300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2910E+00  1.6036E+00
+****************************************************
+ calculation results for run 
+          11
+ number iterations, error, solution time 
+     5  2.4167E-07  1.1632E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.30094E-03 9.38949E-03 9.88310E-01 2.30094E-03 9.38949E-03 9.88310E-01 2.30094E-03 9.38949E-03 9.88310E-01
+****************************************************
+ input variables for run    12
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.3483200E+00  1.3359000E+00  1.8650200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.6987758E+00  1.3483200E+00  2.6966400E+00  2.2821243E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  4.0449600E+01  4.0449600E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.2936E+00  1.6162E+00
+****************************************************
+ calculation results for run 
+          12
+ number iterations, error, solution time 
+     5  3.9732E-08  1.1084E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.26629E-03 9.45991E-03 9.88274E-01 2.26629E-03 9.45991E-03 9.88274E-01 2.26629E-03 9.45991E-03 9.88274E-01
+****************************************************
+ input variables for run    13
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.3311800E+00  1.3055900E+00  1.8471200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.6771808E+00  1.3311800E+00  2.6623600E+00  2.2531136E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.9935400E+01  3.9935400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.3019E+00  1.6301E+00
+****************************************************
+ calculation results for run 
+          13
+ number iterations, error, solution time 
+     5  4.1283E-09  1.1050E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.20741E-03 9.60441E-03 9.88188E-01 2.20741E-03 9.60441E-03 9.88188E-01 2.20741E-03 9.60441E-03 9.88188E-01
+****************************************************
+ input variables for run    14
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.3144700E+00  1.2548400E+00  1.8308700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.6561276E+00  1.3144700E+00  2.6289400E+00  2.2248308E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.9434100E+01  3.9434100E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.3227E+00  1.6470E+00
+****************************************************
+ calculation results for run 
+          14
+ number iterations, error, solution time 
+     5  1.9773E-08  1.0823E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.14147E-03 9.76875E-03 9.88090E-01 2.14147E-03 9.76875E-03 9.88090E-01 2.14147E-03 9.76875E-03 9.88090E-01
+****************************************************
+ input variables for run    15
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2981800E+00  1.1927800E+00  1.8212100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.6356035E+00  1.2981800E+00  2.5963600E+00  2.1972589E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.8945400E+01  3.8945400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.3560E+00  1.6635E+00
+****************************************************
+ calculation results for run 
+          15
+ number iterations, error, solution time 
+     4  9.5818E-07  9.3850E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.21821E-03 9.83079E-03 9.87951E-01 2.21821E-03 9.83079E-03 9.87951E-01 2.21821E-03 9.83079E-03 9.87951E-01
+****************************************************
+ input variables for run    16
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2822800E+00  1.1203700E+00  1.8210500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.6155708E+00  1.2822800E+00  2.5645600E+00  2.1703470E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.8468400E+01  3.8468400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.4062E+00  1.6777E+00
+****************************************************
+ calculation results for run 
+          16
+ number iterations, error, solution time 
+     5  6.2918E-09  1.1097E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.28833E-03 9.84911E-03 9.87863E-01 2.28833E-03 9.84911E-03 9.87863E-01 2.28833E-03 9.84911E-03 9.87863E-01
+****************************************************
+ input variables for run    17
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2667700E+00  1.0383700E+00  1.8335800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5960294E+00  1.2667700E+00  2.5335400E+00  2.1440953E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.8003100E+01  3.8003100E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.4787E+00  1.6862E+00
+****************************************************
+ calculation results for run 
+          17
+ number iterations, error, solution time 
+     5  8.2016E-09  1.1422E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.18844E-03 9.96815E-03 9.87843E-01 2.18844E-03 9.96815E-03 9.87843E-01 2.18844E-03 9.96815E-03 9.87843E-01
+****************************************************
+ input variables for run    18
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2516300E+00  9.3702600E-01  1.8755400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5769542E+00  1.2516300E+00  2.5032600E+00  2.1184698E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.7548900E+01  3.7548900E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.5949E+00  1.6753E+00
+****************************************************
+ calculation results for run 
+          18
+ number iterations, error, solution time 
+     5  2.9306E-08  1.0579E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.28571E-03 9.95480E-03 9.87759E-01 2.28571E-03 9.95480E-03 9.87759E-01 2.28571E-03 9.95480E-03 9.87759E-01
+****************************************************
+ input variables for run    19
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2368500E+00  8.3234600E-01  1.9304700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5583326E+00  1.2368500E+00  2.4737000E+00  2.0934536E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.7105500E+01  3.7105500E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.7312E+00  1.6398E+00
+****************************************************
+ calculation results for run 
+          19
+ number iterations, error, solution time 
+     5  3.1890E-08  1.0523E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.68542E-03 9.72572E-03 9.87589E-01 2.68542E-03 9.72572E-03 9.87589E-01 2.68542E-03 9.72572E-03 9.87589E-01
+****************************************************
+ input variables for run    20
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2224100E+00  7.2945600E-01  1.9959100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5401394E+00  1.2224100E+00  2.4448200E+00  2.0690129E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.6672300E+01  3.6672300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.8719E+00  1.5681E+00
+****************************************************
+ calculation results for run 
+          20
+ number iterations, error, solution time 
+     5  4.1690E-07  1.0800E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.26521E-03 9.11673E-03 9.87618E-01 3.26521E-03 9.11673E-03 9.87618E-01 3.26521E-03 9.11673E-03 9.87618E-01
+****************************************************
+ input variables for run    21
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.2083000E+00  6.3348300E-01  2.0694300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5223619E+00  1.2083000E+00  2.4166000E+00  2.0451308E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.6249000E+01  3.6249000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  3.9977E+00  1.4533E+00
+****************************************************
+ calculation results for run 
+          21
+ number iterations, error, solution time 
+     5  2.8861E-07  1.0068E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.98673E-03 9.28217E-03 9.87731E-01 2.98673E-03 9.28217E-03 9.87731E-01 2.98673E-03 9.28217E-03 9.87731E-01
+****************************************************
+ input variables for run    22
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1945200E+00  5.6910600E-01  2.1456300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.5050003E+00  1.1945200E+00  2.3890400E+00  2.0218072E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     9
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.5835600E+01  3.5835600E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   5       140
+ mean sphere Mie extinction, absorption efficiencies
+  4.0750E+00  1.3244E+00
+****************************************************
+ calculation results for run 
+          22
+ number iterations, error, solution time 
+     5  1.8904E-07  1.0699E-01
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.44446E-03 8.74832E-03 9.87807E-01 3.44446E-03 8.74832E-03 9.87807E-01 3.44446E-03 8.74832E-03 9.87807E-01
+****************************************************
+ input variables for run    23
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1810500E+00  5.2028300E-01  2.2252600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4880291E+00  1.1810500E+00  2.3621000E+00  1.9990083E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.5431500E+01  3.5431500E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.1310E+00  1.1942E+00
+****************************************************
+ calculation results for run 
+          23
+ number iterations, error, solution time 
+     5  6.5557E-07  8.5759E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.18016E-03 8.46359E-03 9.88356E-01 3.18016E-03 8.46359E-03 9.88356E-01 3.18016E-03 8.46359E-03 9.88356E-01
+****************************************************
+ input variables for run    24
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1678800E+00  4.8133900E-01  2.3074900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4714360E+00  1.1678800E+00  2.3357600E+00  1.9767172E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.5036400E+01  3.5036400E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.1794E+00  1.0728E+00
+****************************************************
+ calculation results for run 
+          24
+ number iterations, error, solution time 
+     5  1.9342E-07  8.5189E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.08568E-03 7.77717E-03 9.88137E-01 4.08568E-03 7.77717E-03 9.88137E-01 4.08568E-03 7.77717E-03 9.88137E-01
+****************************************************
+ input variables for run    25
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1550000E+00  4.5009600E-01  2.3909800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4552082E+00  1.1550000E+00  2.3100000E+00  1.9549169E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.4650000E+01  3.4650000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.2257E+00  9.6626E-01
+****************************************************
+ calculation results for run 
+          25
+ number iterations, error, solution time 
+     5  5.4392E-08  8.3995E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.72803E-03 7.20283E-03 9.88069E-01 4.72803E-03 7.20283E-03 9.88069E-01 4.72803E-03 7.20283E-03 9.88069E-01
+****************************************************
+ input variables for run    26
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1424000E+00  4.2240400E-01  2.4728100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4393333E+00  1.1424000E+00  2.2848000E+00  1.9335905E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.4272000E+01  3.4272000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.2738E+00  8.7383E-01
+****************************************************
+ calculation results for run 
+          26
+ number iterations, error, solution time 
+     5  3.0958E-08  8.1281E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.35829E-03 6.68965E-03 9.87952E-01 5.35829E-03 6.68965E-03 9.87952E-01 5.35829E-03 6.68965E-03 9.87952E-01
+****************************************************
+ input variables for run    27
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1300700E+00  3.9177000E-01  2.5481800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4237985E+00  1.1300700E+00  2.2601400E+00  1.9127211E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.3902100E+01  3.3902100E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.3287E+00  7.8866E-01
+****************************************************
+ calculation results for run 
+          27
+ number iterations, error, solution time 
+     5  3.6822E-08  8.5489E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.98320E-03 6.07881E-03 9.87938E-01 5.98320E-03 6.07881E-03 9.87938E-01 5.98319E-03 6.07881E-03 9.87938E-01
+****************************************************
+ input variables for run    28
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1180000E+00  3.6408900E-01  2.6221900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.4085912E+00  1.1180000E+00  2.2360000E+00  1.8922918E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.3540000E+01  3.3540000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.3812E+00  7.1364E-01
+****************************************************
+ calculation results for run 
+          28
+ number iterations, error, solution time 
+     5  3.6912E-08  8.3355E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.03926E-03 6.45668E-03 9.87504E-01 6.03926E-03 6.45668E-03 9.87504E-01 6.03926E-03 6.45668E-03 9.87504E-01
+****************************************************
+ input variables for run    29
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.1061900E+00  3.3913900E-01  2.6950600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3937116E+00  1.1061900E+00  2.2123800E+00  1.8723026E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.3185700E+01  3.3185700E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.4288E+00  6.4747E-01
+****************************************************
+ calculation results for run 
+          29
+ number iterations, error, solution time 
+     5  1.2279E-08  8.1228E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.25266E-03 6.00575E-03 9.86742E-01 7.25266E-03 6.00575E-03 9.86742E-01 7.25266E-03 6.00575E-03 9.86742E-01
+****************************************************
+ input variables for run    30
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0946300E+00  3.1670000E-01  2.7669900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3791469E+00  1.0946300E+00  2.1892600E+00  1.8527365E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     8
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.2838900E+01  3.2838900E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.4694E+00  5.8895E-01
+****************************************************
+ calculation results for run 
+          30
+ number iterations, error, solution time 
+     5  1.2818E-08  8.5535E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.12320E-03 5.69189E-03 9.86185E-01 8.12320E-03 5.69189E-03 9.86185E-01 8.12320E-03 5.69189E-03 9.86185E-01
+****************************************************
+ input variables for run    31
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0833100E+00  2.9655200E-01  2.8382000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3648846E+00  1.0833100E+00  2.1666200E+00  1.8335766E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.2499300E+01  3.2499300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5016E+00  5.3699E-01
+****************************************************
+ calculation results for run 
+          31
+ number iterations, error, solution time 
+     5  1.3470E-08  7.9787E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.87104E-03 5.46089E-03 9.85668E-01 8.87104E-03 5.46089E-03 9.85668E-01 8.87104E-03 5.46089E-03 9.85668E-01
+****************************************************
+ input variables for run    32
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0722200E+00  2.7847300E-01  2.9103900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3509121E+00  1.0722200E+00  2.1444400E+00  1.8148060E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.2166600E+01  3.2166600E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5232E+00  4.9008E-01
+****************************************************
+ calculation results for run 
+          32
+ number iterations, error, solution time 
+     5  1.8398E-08  7.7842E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.52051E-03 5.28505E-03 9.85194E-01 9.52051E-03 5.28505E-03 9.85194E-01 9.52051E-03 5.28505E-03 9.85194E-01
+****************************************************
+ input variables for run    33
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0613500E+00  2.6224300E-01  2.9828200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3372168E+00  1.0613500E+00  2.1227000E+00  1.7964078E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.1840500E+01  3.1840500E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5338E+00  4.4791E-01
+****************************************************
+ calculation results for run 
+          33
+ number iterations, error, solution time 
+     5  6.3180E-09  8.0627E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.35331E-03 5.51943E-03 9.85127E-01 9.35331E-03 5.51943E-03 9.85127E-01 9.35331E-03 5.51943E-03 9.85127E-01
+****************************************************
+ input variables for run    34
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0507000E+00  2.4764300E-01  3.0545200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3237987E+00  1.0507000E+00  2.1014000E+00  1.7783820E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.1521000E+01  3.1521000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5338E+00  4.1021E-01
+****************************************************
+ calculation results for run 
+          34
+ number iterations, error, solution time 
+     5  1.5491E-08  8.4751E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.09782E-02 5.31286E-03 9.83709E-01 1.09782E-02 5.31286E-03 9.83709E-01 1.09782E-02 5.31286E-03 9.83709E-01
+****************************************************
+ input variables for run    35
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0402600E+00  2.3445100E-01  3.1252500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.3106451E+00  1.0402600E+00  2.0805200E+00  1.7607115E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.1207800E+01  3.1207800E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5235E+00  3.7643E-01
+****************************************************
+ calculation results for run 
+          35
+ number iterations, error, solution time 
+     6  5.3607E-08  9.4841E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.08018E-03 6.08605E-03 9.86834E-01 7.08018E-03 6.08605E-03 9.86834E-01 7.08018E-03 6.08605E-03 9.86834E-01
+****************************************************
+ input variables for run    36
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0300300E+00  2.2244700E-01  3.1948300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2977561E+00  1.0300300E+00  2.0600600E+00  1.7433966E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.0900900E+01  3.0900900E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.5034E+00  3.4605E-01
+****************************************************
+ calculation results for run 
+          36
+ number iterations, error, solution time 
+     6  6.9161E-11  8.5435E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.14683E-02 5.58754E-03 9.82944E-01 1.14683E-02 5.58754E-03 9.82944E-01 1.14683E-02 5.58754E-03 9.82944E-01
+****************************************************
+ input variables for run    37
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0200000E+00  2.1141000E-01  3.2630200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2851191E+00  1.0200000E+00  2.0400000E+00  1.7264201E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.0600000E+01  3.0600000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.4744E+00  3.1859E-01
+****************************************************
+ calculation results for run 
+          37
+ number iterations, error, solution time 
+     5  1.9369E-07  7.5308E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.29479E-02 5.31694E-03 9.81735E-01 1.29479E-02 5.31694E-03 9.81735E-01 1.29479E-02 5.31694E-03 9.81735E-01
+****************************************************
+ input variables for run    38
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0101600E+00  1.9931700E-01  3.3275400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2727215E+00  1.0101600E+00  2.0203200E+00  1.7097652E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.0304800E+01  3.0304800E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.4402E+00  2.9169E-01
+****************************************************
+ calculation results for run 
+          38
+ number iterations, error, solution time 
+     5  5.2834E-08  7.5731E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.37508E-02 5.07135E-03 9.81178E-01 1.37508E-02 5.07135E-03 9.81178E-01 1.37508E-02 5.07135E-03 9.81178E-01
+****************************************************
+ input variables for run    39
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  1.0005100E+00  1.8760400E-01  3.3901000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2605633E+00  1.0005100E+00  2.0010200E+00  1.6934319E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  3.0015300E+01  3.0015300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.3989E+00  2.6670E-01
+****************************************************
+ calculation results for run 
+          39
+ number iterations, error, solution time 
+     5  2.1212E-08  7.3418E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.42232E-02 4.83666E-03 9.80940E-01 1.42232E-02 4.83666E-03 9.80940E-01 1.42232E-02 4.83666E-03 9.80940E-01
+****************************************************
+ input variables for run    40
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.9103900E-01  1.7662400E-01  3.4511500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2486306E+00  9.9103900E-01  1.9820780E+00  1.6774016E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.9731170E+01  2.9731170E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.3503E+00  2.4387E-01
+****************************************************
+ calculation results for run 
+          40
+ number iterations, error, solution time 
+     5  1.0688E-08  6.7430E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.44502E-02 4.60536E-03 9.80944E-01 1.44502E-02 4.60536E-03 9.80944E-01 1.44502E-02 4.60536E-03 9.80944E-01
+****************************************************
+ input variables for run    41
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.8174800E-01  1.6645700E-01  3.5108300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2369247E+00  9.8174800E-01  1.9634960E+00  1.6616760E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.9452440E+01  2.9452440E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.2951E+00  2.2315E-01
+****************************************************
+ calculation results for run 
+          41
+ number iterations, error, solution time 
+     5  6.3204E-09  7.4273E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.44630E-02 4.37260E-03 9.81164E-01 1.44630E-02 4.37260E-03 9.81164E-01 1.44630E-02 4.37260E-03 9.81164E-01
+****************************************************
+ input variables for run    42
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.7262900E-01  1.5718400E-01  3.5692800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2254355E+00  9.7262900E-01  1.9452580E+00  1.6462414E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.9178870E+01  2.9178870E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   4        96
+ mean sphere Mie extinction, absorption efficiencies
+  4.2337E+00  2.0450E-01
+****************************************************
+ calculation results for run 
+          42
+ number iterations, error, solution time 
+     5  4.2303E-09  7.1131E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.42793E-02 4.13720E-03 9.81583E-01 1.42793E-02 4.13720E-03 9.81583E-01 1.42793E-02 4.13720E-03 9.81583E-01
+****************************************************
+ input variables for run    43
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.6367900E-01  1.4888400E-01  3.6266300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2141592E+00  9.6367900E-01  1.9273580E+00  1.6310929E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.8910370E+01  2.8910370E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  4.1667E+00  1.8788E-01
+****************************************************
+ calculation results for run 
+          43
+ number iterations, error, solution time 
+     4  2.0536E-07  4.9630E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.36612E-02 3.75600E-03 9.82583E-01 1.36612E-02 3.75600E-03 9.82583E-01 1.36612E-02 3.75600E-03 9.82583E-01
+****************************************************
+ input variables for run    44
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.5489100E-01  1.4163800E-01  3.6830300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.2030870E+00  9.5489100E-01  1.9097820E+00  1.6162186E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.8646730E+01  2.8646730E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  4.0946E+00  1.7326E-01
+****************************************************
+ calculation results for run 
+          44
+ number iterations, error, solution time 
+     4  2.3463E-07  4.7935E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.31382E-02 3.51989E-03 9.83342E-01 1.31382E-02 3.51989E-03 9.83342E-01 1.31382E-02 3.51989E-03 9.83342E-01
+****************************************************
+ input variables for run    45
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.4626300E-01  1.3678700E-01  3.7392000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1922165E+00  9.4626300E-01  1.8925260E+00  1.6016152E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.8387890E+01  2.8387890E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  4.0175E+00  1.6196E-01
+****************************************************
+ calculation results for run 
+          45
+ number iterations, error, solution time 
+     4  2.1165E-07  4.7621E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.25909E-02 3.31003E-03 9.84099E-01 1.25909E-02 3.31003E-03 9.84099E-01 1.25909E-02 3.31003E-03 9.84099E-01
+****************************************************
+ input variables for run    46
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.3778900E-01  1.3345300E-01  3.7948200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1815399E+00  9.3778900E-01  1.8755780E+00  1.5872723E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.8133670E+01  2.8133670E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.9365E+00  1.5280E-01
+****************************************************
+ calculation results for run 
+          46
+ number iterations, error, solution time 
+     5  2.3388E-09  5.7976E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.33778E-02 3.05680E-03 9.83565E-01 1.33778E-02 3.05680E-03 9.83565E-01 1.33778E-02 3.05681E-03 9.83565E-01
+****************************************************
+ input variables for run    47
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.2946500E-01  1.3110300E-01  3.8497700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1710523E+00  9.2946500E-01  1.8589300E+00  1.5731834E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.7883950E+01  2.7883950E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.8525E+00  1.4509E-01
+****************************************************
+ calculation results for run 
+          47
+ number iterations, error, solution time 
+     5  6.4211E-09  5.9089E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.27069E-03 2.99326E-03 9.88736E-01 8.27069E-03 2.99326E-03 9.88736E-01 8.27069E-03 2.99326E-03 9.88736E-01
+****************************************************
+ input variables for run    48
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.2128800E-01  1.2962800E-01  3.9040800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1607500E+00  9.2128800E-01  1.8425760E+00  1.5593433E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.7638640E+01  2.7638640E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.7663E+00  1.3860E-01
+****************************************************
+ calculation results for run 
+          48
+ number iterations, error, solution time 
+     4  8.1300E-07  4.7536E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.26283E-03 2.75495E-03 9.88982E-01 8.26283E-03 2.75495E-03 9.88982E-01 8.26283E-03 2.75495E-03 9.88982E-01
+****************************************************
+ input variables for run    49
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.1325400E-01  1.2891700E-01  3.9578100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1506278E+00  9.1325400E-01  1.8265080E+00  1.5457452E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.7397620E+01  2.7397620E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.6782E+00  1.3311E-01
+****************************************************
+ calculation results for run 
+          49
+ number iterations, error, solution time 
+     4  6.6175E-07  4.9661E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.69783E-03 2.55279E-03 9.89749E-01 7.69783E-03 2.55279E-03 9.89749E-01 7.69783E-03 2.55279E-03 9.89749E-01
+****************************************************
+ input variables for run    50
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  9.0535800E-01  1.2885900E-01  4.0110200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1406794E+00  9.0535800E-01  1.8107160E+00  1.5323806E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.7160740E+01  2.7160740E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.5889E+00  1.2844E-01
+****************************************************
+ calculation results for run 
+          50
+ number iterations, error, solution time 
+     4  4.3013E-07  4.8953E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.06421E-03 2.37061E-03 9.90565E-01 7.06421E-03 2.37061E-03 9.90565E-01 7.06421E-03 2.37061E-03 9.90565E-01
+****************************************************
+ input variables for run    51
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.9759800E-01  1.2934500E-01  4.0637400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1309025E+00  8.9759800E-01  1.7951960E+00  1.5192463E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.6927940E+01  2.6927940E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.4987E+00  1.2442E-01
+****************************************************
+ calculation results for run 
+          51
+ number iterations, error, solution time 
+     4  1.6872E-07  4.5433E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.54676E-03 2.20126E-03 9.91252E-01 6.54676E-03 2.20126E-03 9.91252E-01 6.54676E-03 2.20126E-03 9.91252E-01
+****************************************************
+ input variables for run    52
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.8997000E-01  1.3004000E-01  4.1161000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1212918E+00  8.8997000E-01  1.7799400E+00  1.5063354E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.6699100E+01  2.6699100E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.4079E+00  1.2069E-01
+****************************************************
+ calculation results for run 
+          52
+ number iterations, error, solution time 
+     4  1.3756E-07  4.7959E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.94800E-03 2.01011E-03 9.91042E-01 6.94800E-03 2.01011E-03 9.91042E-01 6.94800E-03 2.01011E-03 9.91042E-01
+****************************************************
+ input variables for run    53
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.8247000E-01  1.3039100E-01  4.1682800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1118424E+00  8.8247000E-01  1.7649400E+00  1.4936411E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.6474100E+01  2.6474100E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.3168E+00  1.1672E-01
+****************************************************
+ calculation results for run 
+          53
+ number iterations, error, solution time 
+     4  1.3820E-07  4.8766E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.53410E-03 1.92288E-03 9.93543E-01 4.53410E-03 1.92288E-03 9.93543E-01 4.53411E-03 1.92288E-03 9.93543E-01
+****************************************************
+ input variables for run    54
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.7509500E-01  1.3102900E-01  4.2201100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.1025505E+00  8.7509500E-01  1.7501900E+00  1.4811584E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.6252850E+01  2.6252850E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.2258E+00  1.1312E-01
+****************************************************
+ calculation results for run 
+          54
+ number iterations, error, solution time 
+     4  6.2292E-08  4.7156E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.46566E-03 1.76226E-03 9.93772E-01 4.46566E-03 1.76226E-03 9.93772E-01 4.46566E-03 1.76226E-03 9.93772E-01
+****************************************************
+ input variables for run    55
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.6784300E-01  1.3192700E-01  4.2716200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0934136E+00  8.6784300E-01  1.7356860E+00  1.4688839E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.6035290E+01  2.6035290E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.1353E+00  1.0982E-01
+****************************************************
+ calculation results for run 
+          55
+ number iterations, error, solution time 
+     4  6.0147E-08  4.7305E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.83587E-03 1.60634E-03 9.93558E-01 4.83586E-03 1.60634E-03 9.93558E-01 4.83587E-03 1.60634E-03 9.93558E-01
+****************************************************
+ input variables for run    56
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.6071000E-01  1.3305800E-01  4.3228300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0844266E+00  8.6071000E-01  1.7214200E+00  1.4568108E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.5821300E+01  2.5821300E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  3.0456E+00  1.0678E-01
+****************************************************
+ calculation results for run 
+          56
+ number iterations, error, solution time 
+     4  7.9177E-07  4.4110E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.47812E-03 1.74082E-03 9.95781E-01 2.47813E-03 1.74082E-03 9.95781E-01 2.47812E-03 1.74082E-03 9.95781E-01
+****************************************************
+ input variables for run    57
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.5369400E-01  1.3439600E-01  4.3737700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0755870E+00  8.5369400E-01  1.7073880E+00  1.4449358E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.5610820E+01  2.5610820E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.9569E+00  1.0397E-01
+****************************************************
+ calculation results for run 
+          57
+ number iterations, error, solution time 
+     4  4.4625E-07  4.6886E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.10883E-03 1.48555E-03 9.96406E-01 2.10883E-03 1.48555E-03 9.96406E-01 2.10883E-03 1.48555E-03 9.96406E-01
+****************************************************
+ input variables for run    58
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.4679000E-01  1.3591300E-01  4.4244800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0668885E+00  8.4679000E-01  1.6935800E+00  1.4332503E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.5403700E+01  2.5403700E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.8694E+00  1.0135E-01
+****************************************************
+ calculation results for run 
+          58
+ number iterations, error, solution time 
+     4  1.6924E-07  4.6635E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.21092E-03 1.35479E-03 9.96434E-01 2.21092E-03 1.35479E-03 9.96434E-01 2.21092E-03 1.35479E-03 9.96434E-01
+****************************************************
+ input variables for run    59
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.3999800E-01  1.3758300E-01  4.4749700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0583311E+00  8.3999800E-01  1.6799960E+00  1.4217543E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.5199940E+01  2.5199940E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.7833E+00  9.8893E-02
+****************************************************
+ calculation results for run 
+          59
+ number iterations, error, solution time 
+     4  9.4495E-09  4.6985E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.91890E-03 1.22937E-03 9.95852E-01 2.91890E-03 1.22937E-03 9.95852E-01 2.91890E-03 1.22937E-03 9.95852E-01
+****************************************************
+ input variables for run    60
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.3331400E-01  1.3937800E-01  4.5252700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0499098E+00  8.3331400E-01  1.6666280E+00  1.4104412E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4999420E+01  2.4999420E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.6988E+00  9.6563E-02
+****************************************************
+ calculation results for run 
+          60
+ number iterations, error, solution time 
+     5  3.9429E-09  5.5973E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.88194E-04 1.26808E-03 9.97844E-01 8.88194E-04 1.26808E-03 9.97844E-01 8.88194E-04 1.26808E-03 9.97844E-01
+****************************************************
+ input variables for run    61
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.2673500E-01  1.4115000E-01  4.5756300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0416208E+00  8.2673500E-01  1.6534700E+00  1.3993058E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4802050E+01  2.4802050E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.6157E+00  9.4246E-02
+****************************************************
+ calculation results for run 
+          61
+ number iterations, error, solution time 
+     5  9.4585E-10  5.4424E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.72539E-04 1.15269E-03 9.97975E-01 8.72539E-04 1.15269E-03 9.97975E-01 8.72539E-04 1.15269E-03 9.97975E-01
+****************************************************
+ input variables for run    62
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.2025900E-01  1.4293400E-01  4.6259500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0334615E+00  8.2025900E-01  1.6405180E+00  1.3883447E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4607770E+01  2.4607770E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.5343E+00  9.1976E-02
+****************************************************
+ calculation results for run 
+          62
+ number iterations, error, solution time 
+     4  6.6390E-07  4.4415E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.19224E-04 1.07106E-03 9.98110E-01 8.19224E-04 1.07106E-03 9.98110E-01 8.19224E-04 1.07106E-03 9.98110E-01
+****************************************************
+ input variables for run    63
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.1388400E-01  1.4477400E-01  4.6761600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0254296E+00  8.1388400E-01  1.6277680E+00  1.3775546E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4416520E+01  2.4416520E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.4549E+00  8.9786E-02
+****************************************************
+ calculation results for run 
+          63
+ number iterations, error, solution time 
+     4  4.2811E-07  4.6611E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.68798E-04 1.00304E-03 9.98228E-01 7.68798E-04 1.00304E-03 9.98228E-01 7.68798E-04 1.00304E-03 9.98228E-01
+****************************************************
+ input variables for run    64
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.0760700E-01  1.4665400E-01  4.7262400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0175210E+00  8.0760700E-01  1.6152140E+00  1.3669304E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4228210E+01  2.4228210E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.3773E+00  8.7666E-02
+****************************************************
+ calculation results for run 
+          64
+ number iterations, error, solution time 
+     4  2.9360E-07  4.3649E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.28466E-04 9.43615E-04 9.98328E-01 7.28466E-04 9.43615E-04 9.98328E-01 7.28466E-04 9.43615E-04 9.98328E-01
+****************************************************
+ input variables for run    65
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  8.0142700E-01  1.4856000E-01  4.7762100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0097347E+00  8.0142700E-01  1.6028540E+00  1.3564703E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.4042810E+01  2.4042810E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.3018E+00  8.5608E-02
+****************************************************
+ calculation results for run 
+          65
+ number iterations, error, solution time 
+     4  2.0911E-07  4.6479E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.03350E-04 8.90624E-04 9.98406E-01 7.03350E-04 8.90624E-04 9.98406E-01 7.03350E-04 8.90624E-04 9.98406E-01
+****************************************************
+ input variables for run    66
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.9534000E-01  1.5047700E-01  4.8260700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.0020656E+00  7.9534000E-01  1.5906800E+00  1.3461676E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.3860200E+01  2.3860200E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.2283E+00  8.3602E-02
+****************************************************
+ calculation results for run 
+          66
+ number iterations, error, solution time 
+     4  1.5205E-07  4.5863E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.96197E-04 8.42734E-04 9.98461E-01 6.96197E-04 8.42734E-04 9.98461E-01 6.96197E-04 8.42734E-04 9.98461E-01
+****************************************************
+ input variables for run    67
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.8934500E-01  1.5238900E-01  4.8758200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.9451239E-01  7.8934500E-01  1.5786900E+00  1.3360207E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.3680350E+01  2.3680350E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.1568E+00  8.1640E-02
+****************************************************
+ calculation results for run 
+          67
+ number iterations, error, solution time 
+     4  1.1151E-07  4.5170E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.09417E-04 7.99006E-04 9.98492E-01 7.09417E-04 7.99006E-04 9.98492E-01 7.09417E-04 7.99006E-04 9.98492E-01
+****************************************************
+ input variables for run    68
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.8344000E-01  1.5428100E-01  4.9254800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.8707256E-01  7.8344000E-01  1.5668800E+00  1.3260260E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.3503200E+01  2.3503200E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.0875E+00  7.9717E-02
+****************************************************
+ calculation results for run 
+          68
+ number iterations, error, solution time 
+     4  8.1550E-08  4.3862E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.46493E-04 7.58672E-04 9.98495E-01 7.46493E-04 7.58672E-04 9.98495E-01 7.46493E-04 7.58672E-04 9.98495E-01
+****************************************************
+ input variables for run    69
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.7762200E-01  1.5613900E-01  4.9750500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.7974235E-01  7.7762200E-01  1.5552440E+00  1.3161787E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.3328660E+01  2.3328660E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  2.0201E+00  7.7826E-02
+****************************************************
+ calculation results for run 
+          69
+ number iterations, error, solution time 
+     4  5.8687E-08  4.1408E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.13923E-04 7.21044E-04 9.98465E-01 8.13923E-04 7.21044E-04 9.98465E-01 8.13923E-04 7.21044E-04 9.98465E-01
+****************************************************
+ input variables for run    70
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.7189000E-01  1.5794700E-01  5.0245400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.7252049E-01  7.7189000E-01  1.5437800E+00  1.3064769E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.3156700E+01  2.3156700E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.9549E+00  7.5961E-02
+****************************************************
+ calculation results for run 
+          70
+ number iterations, error, solution time 
+     4  4.0772E-08  4.2081E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.25500E-04 6.85338E-04 9.98389E-01 9.25500E-04 6.85338E-04 9.98389E-01 9.25500E-04 6.85338E-04 9.98389E-01
+****************************************************
+ input variables for run    71
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.6624200E-01  1.5968900E-01  5.0739500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.6540446E-01  7.6624200E-01  1.5324840E+00  1.2969172E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2987260E+01  2.2987260E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.8917E+00  7.4118E-02
+****************************************************
+ calculation results for run 
+          71
+ number iterations, error, solution time 
+     4  2.6670E-08  4.1144E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.11595E-03 6.50286E-04 9.98234E-01 1.11595E-03 6.50286E-04 9.98234E-01 1.11595E-03 6.50286E-04 9.98234E-01
+****************************************************
+ input variables for run    72
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.6067600E-01  1.6072000E-01  5.1237300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.5839175E-01  7.6067600E-01  1.5213520E+00  1.2874964E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2820280E+01  2.2820280E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.8301E+00  7.1998E-02
+****************************************************
+ calculation results for run 
+          72
+ number iterations, error, solution time 
+     4  1.8019E-08  4.1017E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.50737E-03 6.09601E-04 9.97883E-01 1.50737E-03 6.09601E-04 9.97883E-01 1.50737E-03 6.09601E-04 9.97883E-01
+****************************************************
+ input variables for run    73
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.5519100E-01  1.6153200E-01  5.1735400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.5148109E-01  7.5519100E-01  1.5103820E+00  1.2782127E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2655730E+01  2.2655730E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.7706E+00  6.9857E-02
+****************************************************
+ calculation results for run 
+          73
+ number iterations, error, solution time 
+     5  1.9029E-08  4.8820E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 3.73322E-03 4.70411E-04 9.95796E-01 3.73324E-03 4.70411E-04 9.95796E-01 3.73320E-03 4.70412E-04 9.95796E-01
+****************************************************
+ input variables for run    74
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.4978300E-01  1.6228700E-01  5.2232500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.4466744E-01  7.4978300E-01  1.4995660E+00  1.2690593E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2493490E+01  2.2493490E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.7129E+00  6.7773E-02
+****************************************************
+ calculation results for run 
+          74
+ number iterations, error, solution time 
+     4  9.6702E-08  4.1789E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.45649E-04 6.70652E-04 9.98584E-01 7.45649E-04 6.70652E-04 9.98584E-01 7.45649E-04 6.70652E-04 9.98584E-01
+****************************************************
+ input variables for run    75
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.4445300E-01  1.6300700E-01  5.2728400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.3795207E-01  7.4445300E-01  1.4889060E+00  1.2600379E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2333590E+01  2.2333590E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.6573E+00  6.5756E-02
+****************************************************
+ calculation results for run 
+          75
+ number iterations, error, solution time 
+     4  1.3360E-07  4.1061E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.20407E-04 6.01855E-04 9.98878E-01 5.20407E-04 6.01855E-04 9.98878E-01 5.20407E-04 6.01855E-04 9.98878E-01
+****************************************************
+ input variables for run    76
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.3919800E-01  1.6371200E-01  5.3222900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.3133119E-01  7.3919800E-01  1.4783960E+00  1.2511434E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2175940E+01  2.2175940E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.6036E+00  6.3813E-02
+****************************************************
+ calculation results for run 
+          76
+ number iterations, error, solution time 
+     4  1.1885E-07  4.1105E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.78800E-04 5.62695E-04 9.98959E-01 4.78800E-04 5.62695E-04 9.98959E-01 4.78800E-04 5.62695E-04 9.98959E-01
+****************************************************
+ input variables for run    77
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.3401700E-01  1.6442300E-01  5.3715900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.2480354E-01  7.3401700E-01  1.4680340E+00  1.2423742E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.2020510E+01  2.2020510E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.5518E+00  6.1950E-02
+****************************************************
+ calculation results for run 
+          77
+ number iterations, error, solution time 
+     4  9.0932E-08  4.0625E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.77042E-04 5.32274E-04 9.98991E-01 4.77042E-04 5.32274E-04 9.98991E-01 4.77042E-04 5.32274E-04 9.98991E-01
+****************************************************
+ input variables for run    78
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.2890800E-01  1.6516200E-01  5.4207100E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.1836661E-01  7.2890800E-01  1.4578160E+00  1.2337269E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1867240E+01  2.1867240E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.5018E+00  6.0171E-02
+****************************************************
+ calculation results for run 
+          78
+ number iterations, error, solution time 
+     4  7.0656E-08  3.9388E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 4.92041E-04 5.06463E-04 9.99001E-01 4.92042E-04 5.06463E-04 9.99001E-01 4.92041E-04 5.06463E-04 9.99001E-01
+****************************************************
+ input variables for run    79
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.2386900E-01  1.6594900E-01  5.4696300E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.1201788E-01  7.2386900E-01  1.4477380E+00  1.2251980E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1716070E+01  2.1716070E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.4536E+00  5.8481E-02
+****************************************************
+ calculation results for run 
+          79
+ number iterations, error, solution time 
+     4  5.6714E-08  4.0920E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.16812E-04 4.83766E-04 9.98999E-01 5.16812E-04 4.83766E-04 9.98999E-01 5.16812E-04 4.83766E-04 9.98999E-01
+****************************************************
+ input variables for run    80
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.1890000E-01  1.6680500E-01  5.5183500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  9.0575734E-01  7.1890000E-01  1.4378000E+00  1.2167877E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1567000E+01  2.1567000E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.4072E+00  5.6881E-02
+****************************************************
+ calculation results for run 
+          80
+ number iterations, error, solution time 
+     4  4.6731E-08  4.0135E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.48608E-04 4.63470E-04 9.98988E-01 5.48608E-04 4.63470E-04 9.98988E-01 5.48608E-04 4.63470E-04 9.98988E-01
+****************************************************
+ input variables for run    81
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.1399800E-01  1.6775200E-01  5.5668200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.9958121E-01  7.1399800E-01  1.4279960E+00  1.2084907E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1419940E+01  2.1419940E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.3624E+00  5.5376E-02
+****************************************************
+ calculation results for run 
+          81
+ number iterations, error, solution time 
+     4  3.9238E-08  4.0049E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 5.86253E-04 4.45168E-04 9.98969E-01 5.86253E-04 4.45168E-04 9.98969E-01 5.86253E-04 4.45168E-04 9.98969E-01
+****************************************************
+ input variables for run    82
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.0916300E-01  1.6881000E-01  5.6150500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.9348950E-01  7.0916300E-01  1.4183260E+00  1.2003071E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1274890E+01  2.1274890E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.3194E+00  5.3966E-02
+****************************************************
+ calculation results for run 
+          82
+ number iterations, error, solution time 
+     4  3.3392E-08  4.0172E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.29300E-04 4.28585E-04 9.98942E-01 6.29300E-04 4.28585E-04 9.98942E-01 6.29300E-04 4.28585E-04 9.98942E-01
+****************************************************
+ input variables for run    83
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.0439300E-01  1.7000000E-01  5.6630000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.8747968E-01  7.0439300E-01  1.4087860E+00  1.1922336E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.1131790E+01  2.1131790E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.2779E+00  5.2652E-02
+****************************************************
+ calculation results for run 
+          83
+ number iterations, error, solution time 
+     4  2.8683E-08  4.0254E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 6.77786E-04 4.13527E-04 9.98909E-01 6.77786E-04 4.13527E-04 9.98909E-01 6.77786E-04 4.13527E-04 9.98909E-01
+****************************************************
+ input variables for run    84
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.9968700E-01  1.7240100E-01  5.7092400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.8155050E-01  6.9968700E-01  1.3993740E+00  1.1842683E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0990610E+01  2.0990610E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.2385E+00  5.1782E-02
+****************************************************
+ calculation results for run 
+          84
+ number iterations, error, solution time 
+     4  2.4770E-08  4.0266E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.32033E-04 4.02526E-04 9.98865E-01 7.32033E-04 4.02526E-04 9.98865E-01 7.32033E-04 4.02526E-04 9.98865E-01
+****************************************************
+ input variables for run    85
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.9504300E-01  1.7498200E-01  5.7551600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.7569943E-01  6.9504300E-01  1.3900860E+00  1.1764080E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0851290E+01  2.0851290E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.2005E+00  5.0990E-02
+****************************************************
+ calculation results for run 
+          85
+ number iterations, error, solution time 
+     4  2.1462E-08  4.0886E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 7.93092E-04 3.92558E-04 9.98814E-01 7.93092E-04 3.92558E-04 9.98814E-01 7.93092E-04 3.92558E-04 9.98814E-01
+****************************************************
+ input variables for run    86
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.9046000E-01  1.7773000E-01  5.8007900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.6992521E-01  6.9046000E-01  1.3809200E+00  1.1686510E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0713800E+01  2.0713800E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.1640E+00  5.0266E-02
+****************************************************
+ calculation results for run 
+          86
+ number iterations, error, solution time 
+     4  1.8608E-08  3.9020E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 8.62559E-04 3.83441E-04 9.98754E-01 8.62559E-04 3.83441E-04 9.98754E-01 8.62559E-04 3.83441E-04 9.98754E-01
+****************************************************
+ input variables for run    87
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.8593700E-01  1.8063100E-01  5.8461600E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.6422660E-01  6.8593700E-01  1.3718740E+00  1.1609955E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0578110E+01  2.0578110E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.1288E+00  4.9601E-02
+****************************************************
+ calculation results for run 
+          87
+ number iterations, error, solution time 
+     4  1.6101E-08  3.9739E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 9.43130E-04 3.74990E-04 9.98682E-01 9.43130E-04 3.74990E-04 9.98682E-01 9.43130E-04 3.74990E-04 9.98682E-01
+****************************************************
+ input variables for run    88
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.8147300E-01  1.8367100E-01  5.8912800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.5860231E-01  6.8147300E-01  1.3629460E+00  1.1534399E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0444190E+01  2.0444190E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.0950E+00  4.8988E-02
+****************************************************
+ calculation results for run 
+          88
+ number iterations, error, solution time 
+     4  1.3859E-08  4.0489E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.03951E-03 3.67007E-04 9.98593E-01 1.03951E-03 3.67007E-04 9.98593E-01 1.03951E-03 3.67007E-04 9.98593E-01
+****************************************************
+ input variables for run    89
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.7706700E-01  1.8683800E-01  5.9361900E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.5305111E-01  6.7706700E-01  1.3541340E+00  1.1459824E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0312010E+01  2.0312010E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.0623E+00  4.8420E-02
+****************************************************
+ calculation results for run 
+          89
+ number iterations, error, solution time 
+     4  1.1834E-08  3.6507E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.16063E-03 3.59220E-04 9.98480E-01 1.16063E-03 3.59220E-04 9.98480E-01 1.16063E-03 3.59220E-04 9.98480E-01
+****************************************************
+ input variables for run    90
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.7271800E-01  1.9011700E-01  5.9809200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.4757172E-01  6.7271800E-01  1.3454360E+00  1.1386214E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0181540E+01  2.0181540E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.0309E+00  4.7890E-02
+****************************************************
+ calculation results for run 
+          90
+ number iterations, error, solution time 
+     4  1.0045E-08  3.7788E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.32591E-03 3.51136E-04 9.98323E-01 1.32591E-03 3.51136E-04 9.98323E-01 1.32591E-03 3.51136E-04 9.98323E-01
+****************************************************
+ input variables for run    91
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.6842400E-01  1.9349500E-01  6.0254800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.4216162E-01  6.6842400E-01  1.3368480E+00  1.1313536E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  2.0052720E+01  2.0052720E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.0006E+00  4.7392E-02
+****************************************************
+ calculation results for run 
+          91
+ number iterations, error, solution time 
+     4  8.8840E-09  3.8559E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.58944E-03 3.41410E-04 9.98069E-01 1.58944E-03 3.41410E-04 9.98069E-01 1.58944E-03 3.41410E-04 9.98069E-01
+****************************************************
+ input variables for run    92
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.6418400E-01  1.9695800E-01  6.0699200E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.3681956E-01  6.6418400E-01  1.3283680E+00  1.1241771E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9925520E+01  1.9925520E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  9.7141E-01  4.6919E-02
+****************************************************
+ calculation results for run 
+          92
+ number iterations, error, solution time 
+     4  1.6117E-08  3.8493E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.20756E-03 3.21681E-04 9.97471E-01 2.20756E-03 3.21682E-04 9.97471E-01 2.20756E-03 3.21681E-04 9.97471E-01
+****************************************************
+ input variables for run    93
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.5999800E-01  2.0049300E-01  6.1142500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.3154553E-01  6.5999800E-01  1.3199960E+00  1.1170920E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9799940E+01  1.9799940E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  9.4326E-01  4.6469E-02
+****************************************************
+ calculation results for run 
+          93
+ number iterations, error, solution time 
+     4  7.6440E-08  3.7051E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 2.15191E-03 4.75455E-04 9.97373E-01 2.15191E-03 4.75456E-04 9.97373E-01 2.15190E-03 4.75455E-04 9.97373E-01
+****************************************************
+ input variables for run    94
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.5586500E-01  2.0408600E-01  6.1585000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.2633828E-01  6.5586500E-01  1.3117300E+00  1.1100966E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9675950E+01  1.9675950E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  9.1611E-01  4.6036E-02
+****************************************************
+ calculation results for run 
+          94
+ number iterations, error, solution time 
+     4  6.5385E-09  3.9678E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.21168E-03 3.90421E-04 9.98398E-01 1.21168E-03 3.90421E-04 9.98398E-01 1.21168E-03 3.90421E-04 9.98398E-01
+****************************************************
+ input variables for run    95
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.5178300E-01  2.0772400E-01  6.2027000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.2119529E-01  6.5178300E-01  1.3035660E+00  1.1031875E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9553490E+01  1.9553490E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  8.8992E-01  4.5616E-02
+****************************************************
+ calculation results for run 
+          95
+ number iterations, error, solution time 
+     4  7.3053E-09  3.8830E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.07525E-03 3.69487E-04 9.98555E-01 1.07525E-03 3.69487E-04 9.98555E-01 1.07524E-03 3.69487E-04 9.98555E-01
+****************************************************
+ input variables for run    96
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.4775100E-01  2.1139400E-01  6.2468700E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.1611529E-01  6.4775100E-01  1.2955020E+00  1.0963631E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9432530E+01  1.9432530E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  8.6465E-01  4.5205E-02
+****************************************************
+ calculation results for run 
+          96
+ number iterations, error, solution time 
+     4  7.5285E-09  3.9086E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.04969E-03 3.57411E-04 9.98593E-01 1.04969E-03 3.57411E-04 9.98593E-01 1.04969E-03 3.57411E-04 9.98593E-01
+****************************************************
+ input variables for run    97
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.4376900E-01  2.1508000E-01  6.2910500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.1109829E-01  6.4376900E-01  1.2875380E+00  1.0896233E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9313070E+01  1.9313070E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  8.4026E-01  4.4800E-02
+****************************************************
+ calculation results for run 
+          97
+ number iterations, error, solution time 
+     4  6.9928E-09  3.9612E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.07109E-03 3.48390E-04 9.98581E-01 1.07109E-03 3.48390E-04 9.98581E-01 1.07109E-03 3.48390E-04 9.98581E-01
+****************************************************
+ input variables for run    98
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.3983600E-01  2.1877100E-01  6.3352500E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.0614303E-01  6.3983600E-01  1.2796720E+00  1.0829664E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9195080E+01  1.9195080E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  8.1672E-01  4.4398E-02
+****************************************************
+ calculation results for run 
+          98
+ number iterations, error, solution time 
+     4  6.0733E-09  3.8282E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.12974E-03 3.40679E-04 9.98530E-01 1.12974E-03 3.40679E-04 9.98530E-01 1.12974E-03 3.40679E-04 9.98530E-01
+****************************************************
+ input variables for run    99
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.3595000E-01  2.2193900E-01  6.3804000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  8.0124698E-01  6.3595000E-01  1.2719000E+00  1.0763891E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.9078500E+01  1.9078500E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  7.9382E-01  4.3881E-02
+****************************************************
+ calculation results for run 
+          99
+ number iterations, error, solution time 
+     4  4.9243E-09  3.5900E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.24057E-03 3.32410E-04 9.98427E-01 1.24057E-03 3.32410E-04 9.98427E-01 1.24057E-03 3.32410E-04 9.98427E-01
+****************************************************
+ input variables for run   100
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.3211100E-01  2.2483000E-01  6.4260800E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  7.9641014E-01  6.3211100E-01  1.2642220E+00  1.0698913E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.8963330E+01  1.8963330E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  7.7163E-01  4.3312E-02
+****************************************************
+ calculation results for run 
+         100
+ number iterations, error, solution time 
+     4  3.5396E-09  3.9042E-02
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.48202E-03 3.22385E-04 9.98196E-01 1.48202E-03 3.22385E-04 9.98196E-01 1.48202E-03 3.22385E-04 9.98196E-01
+****************************************************
+ input variables for run   101
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  6.2831900E-01  2.2770100E-01  6.4718400E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  7.9163253E-01  6.2831900E-01  1.2566380E+00  1.0634731E+01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     6
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ periodic lattice cell width, incident lateral vector 
+  1.8849570E+01  1.8849570E+01  0.0000000E+00  0.0000000E+00
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  7.5021E-01  4.2750E-02
+****************************************************
+ calculation results for run 
+         101
+ number iterations, error, solution time 
+     5  1.7165E-07  7.1786E-02
+ warning: problems encountered with periodic lattice calculations
+ integration did not converge in subroutine q2db
+ integration did not converge in subroutine q1dbnosource
+ unit cell reflectance, absorptance, transmittance (unpol, par, perp)
+ 1.67923E-03 1.67790E-04 9.98153E-01 1.67368E-03 1.67672E-04 9.98159E-01 1.68477E-03 1.67909E-04 9.98147E-01
